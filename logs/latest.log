@@ -1,10 +1,5 @@
-<<<<<<< Updated upstream
-[22:25:19] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
-[22:25:19] [main/INFO]: Loading 45 mods:
-=======
-[20:23:36] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
-[20:23:36] [main/INFO]: Loading 45 mods:
->>>>>>> Stashed changes
+[22:40:04] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
+[22:40:04] [main/INFO]: Loading 45 mods:
 	- fabric-api 0.121.0+1.21.5
 	   |-- fabric-api-base 0.4.62+73a52b4b49
 	   |-- fabric-api-lookup-api-v1 1.6.95+86c3a9f149
@@ -55,26 +50,25 @@
 	   \-- fabric-transitive-access-wideners-v1 6.3.17+f17a180c49
 	- fabricloader 0.16.14
 	   \-- mixinextras 0.4.1
-	- java 24
+	- java 21
 	- minecraft 1.21.5
 	- voicechat 1.21.5-2.5.30
 	   \-- fabric-key-binding-api-v1 1.0.63+ecf51cdc07
 	- worldedit 7.3.12-beta-02+ac380ad
 	- xaerominimap 25.2.5
-<<<<<<< Updated upstream
-[22:25:19] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/Users/anmolu/GitHub/mcslerve/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[22:25:19] [main/INFO]: Compatibility level set to JAVA_21
-[22:25:19] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[22:25:22] [main/INFO]: [voicechat] Compatibility version 18
-[22:25:22] [main/INFO]: [voicechat] Loading plugins
-[22:25:22] [main/INFO]: [voicechat] Loaded 0 plugin(s)
-[22:25:22] [main/INFO]: [voicechat] Initializing plugins
-[22:25:22] [main/INFO]: [voicechat] Initialized 0 plugin(s)
-[22:25:22] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@9c8ed88]
-[22:25:22] [main/INFO]: WorldEdit for Fabric (version 7.3.12-beta-02+ac380ad) is loaded
-[22:25:22] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[22:25:22] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:25:22] [main/WARN]: Failed to load profile cache ./usercache.json
+[22:40:04] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/Users/diyasaxena/GitHub/mcslerve/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:40:04] [main/INFO]: Compatibility level set to JAVA_21
+[22:40:04] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[22:40:08] [main/INFO]: [voicechat] Compatibility version 18
+[22:40:08] [main/INFO]: [voicechat] Loading plugins
+[22:40:08] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[22:40:08] [main/INFO]: [voicechat] Initializing plugins
+[22:40:08] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[22:40:08] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@2a72c976]
+[22:40:08] [main/INFO]: WorldEdit for Fabric (version 7.3.12-beta-02+ac380ad) is loaded
+[22:40:08] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[22:40:08] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:40:08] [main/WARN]: Failed to load profile cache ./usercache.json
 com.google.gson.JsonSyntaxException: Expected a com.google.gson.JsonArray but was com.google.gson.JsonPrimitive; at path $
 	at knot/com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1152) ~[gson-2.11.0.jar:?]
 	at knot/com.google.gson.Gson.fromJson(Gson.java:1361) ~[gson-2.11.0.jar:?]
@@ -88,177 +82,33 @@ com.google.gson.JsonSyntaxException: Expected a com.google.gson.JsonArray but wa
 	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
-[22:25:22] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
-[22:25:23] [main/INFO]: Loaded 1373 recipes
-[22:25:23] [main/INFO]: Loaded 1484 advancements
-[22:25:23] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 548.9 μs
-[22:25:23] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[22:25:23] [Server thread/INFO]: Loading properties
-[22:25:23] [Server thread/INFO]: Default game type: SURVIVAL
-[22:25:23] [Server thread/INFO]: Generating keypair
-[22:25:23] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:25:23] [Server thread/INFO]: Using default channel type
-[22:25:23] [Server thread/INFO]: Preparing level "world"
-[22:25:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:25:23] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[22:25:23] [Server thread/INFO]: Time elapsed: 432 ms
-[22:25:23] [Server thread/INFO]: Done (0.577s)! For help, type "help"
-[22:25:23] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[22:25:24] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[22:26:10] [User Authenticator #1/INFO]: UUID of player discoinferno_ is 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[22:26:11] [Server thread/ERROR]: Unable to parse Stat data from ./world/stats/4be5d073-d865-48dc-9c9a-f05c0a542a51.json
-com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 1 column 1 path $
-See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
-	at knot/com.google.gson.internal.Streams.parse(Streams.java:58) ~[gson-2.11.0.jar:?]
-	at knot/net.minecraft.class_3442.method_14906(class_3442.java:111) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_3442.<init>(class_3442.java:79) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_3324.method_14583(class_3324.java:835) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_3222.<init>(class_3222.java:381) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_3324.method_14613(class_3324.java:423) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_8610.method_52408(class_8610.java:150) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_8736.method_53043(class_8736.java:22) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_8736.method_65081(class_8736.java:8) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_2600.method_11072(class_2600.java:27) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) [server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:882) [server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:178) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) [server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:864) [server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:858) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) [server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:822) [server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:829) [server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:712) [server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:290) [server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1447) [?:?]
-Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 1 column 1 path $
-See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
-	at knot/com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1754) ~[gson-2.11.0.jar:?]
-	at knot/com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1550) ~[gson-2.11.0.jar:?]
-	at knot/com.google.gson.stream.JsonReader.doPeek(JsonReader.java:676) ~[gson-2.11.0.jar:?]
-	at knot/com.google.gson.stream.JsonReader.peek(JsonReader.java:507) ~[gson-2.11.0.jar:?]
-	at knot/com.google.gson.internal.Streams.parse(Streams.java:44) ~[gson-2.11.0.jar:?]
-	... 23 more
-[22:26:11] [Server thread/ERROR]: Couldn't parse player advancements in ./world/advancements/4be5d073-d865-48dc-9c9a-f05c0a542a51.json
-com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 329 column 2 path $.minecraft:recipes/redstone/cherry_door
-See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
-	at knot/com.google.gson.internal.Streams.parse(Streams.java:58) ~[gson-2.11.0.jar:?]
-	at knot/net.minecraft.class_2985.method_12873(class_2985.java:119) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_2985.<init>(class_2985.java:74) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_3324.method_14578(class_3324.java:847) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_3222.<init>(class_3222.java:382) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_3324.method_14613(class_3324.java:423) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_8610.method_52408(class_8610.java:150) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_8736.method_53043(class_8736.java:22) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_8736.method_65081(class_8736.java:8) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_2600.method_11072(class_2600.java:27) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) [server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:882) [server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:178) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) [server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:864) [server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:858) [server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) [server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:822) [server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:829) [server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:712) [server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:290) [server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1447) [?:?]
-Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 329 column 2 path $.minecraft:recipes/redstone/cherry_door
-See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
-	at knot/com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1754) ~[gson-2.11.0.jar:?]
-	at knot/com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1550) ~[gson-2.11.0.jar:?]
-	at knot/com.google.gson.stream.JsonReader.doPeek(JsonReader.java:591) ~[gson-2.11.0.jar:?]
-	at knot/com.google.gson.stream.JsonReader.hasNext(JsonReader.java:498) ~[gson-2.11.0.jar:?]
-	at knot/com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:875) ~[gson-2.11.0.jar:?]
-	at knot/com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:820) ~[gson-2.11.0.jar:?]
-	at knot/com.google.gson.internal.Streams.parse(Streams.java:46) ~[gson-2.11.0.jar:?]
-	... 23 more
-[22:26:11] [Server thread/INFO]: discoinferno_[/127.0.0.1:63477] logged in with entity id 32 at (-2434.724841069139, 192.81439788454352, -2808.932780384299)
-[22:26:11] [Server thread/INFO]: discoinferno_ joined the game
-[22:26:11] [Server thread/INFO]: discoinferno_ has completed the challenge [Serious Dedication]
-[22:26:14] [Server thread/INFO]: [voicechat] Received secret request of discoinferno_ (18)
-[22:26:14] [Server thread/INFO]: [voicechat] Sent secret to discoinferno_
-[22:26:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[22:26:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[22:26:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
-[22:26:38] [Server thread/INFO]: discoinferno_ lost connection: Disconnected
-[22:26:38] [Server thread/INFO]: discoinferno_ left the game
-[22:26:38] [Server thread/INFO]: [voicechat] Disconnecting client discoinferno_
-[22:26:44] [Server thread/INFO]: Stopping the server
-[22:26:44] [Server thread/INFO]: Stopping server
-[22:26:44] [Server thread/INFO]: Saving players
-[22:26:44] [Server thread/INFO]: Saving worlds
-[22:26:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:26:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:26:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:26:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:26:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:26:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:26:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-=======
-[20:23:36] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/Users/anmolu/GitHub/mcslerve/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[20:23:36] [main/INFO]: Compatibility level set to JAVA_21
-[20:23:36] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[20:23:39] [main/INFO]: [voicechat] Compatibility version 18
-[20:23:39] [main/INFO]: [voicechat] Loading plugins
-[20:23:39] [main/INFO]: [voicechat] Loaded 0 plugin(s)
-[20:23:39] [main/INFO]: [voicechat] Initializing plugins
-[20:23:39] [main/INFO]: [voicechat] Initialized 0 plugin(s)
-[20:23:39] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@9ea1beb]
-[20:23:39] [main/INFO]: WorldEdit for Fabric (version 7.3.12-beta-02+ac380ad) is loaded
-[20:23:39] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[20:23:39] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:23:39] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
-[20:23:40] [main/INFO]: Loaded 1373 recipes
-[20:23:40] [main/INFO]: Loaded 1484 advancements
-[20:23:40] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 578.6 μs
-[20:23:40] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[20:23:40] [Server thread/INFO]: Loading properties
-[20:23:40] [Server thread/INFO]: Default game type: SURVIVAL
-[20:23:40] [Server thread/INFO]: Generating keypair
-[20:23:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:23:40] [Server thread/INFO]: Using default channel type
-[20:23:40] [Server thread/INFO]: Preparing level "world"
-[20:23:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:23:40] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[20:23:40] [Server thread/INFO]: Time elapsed: 389 ms
-[20:23:40] [Server thread/INFO]: Done (0.544s)! For help, type "help"
-[20:23:40] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[20:23:41] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[20:24:37] [User Authenticator #1/INFO]: UUID of player discoinferno_ is 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[20:24:38] [Server thread/INFO]: discoinferno_[/127.0.0.1:58353] logged in with entity id 32 at (-2434.724841069139, 179.69506606713068, -2808.932780384299)
-[20:24:38] [Server thread/INFO]: discoinferno_ joined the game
-[20:24:42] [Server thread/INFO]: [voicechat] Received secret request of discoinferno_ (18)
-[20:24:42] [Server thread/INFO]: [voicechat] Sent secret to discoinferno_
-[20:24:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[20:24:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[20:24:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
-[20:34:25] [Server thread/INFO]: [discoinferno_: Gave 1 [Cherry Leaves] to discoinferno_]
-[20:39:47] [Server thread/INFO]: [discoinferno_: Set the time to 1000]
-[20:39:51] [Server thread/INFO]: [discoinferno_: Set the weather to clear]
-[21:24:27] [User Authenticator #2/INFO]: UUID of player ItsnotOllie1 is 9437c394-a79f-4a17-8baa-951fe0785415
-[21:24:28] [Server thread/INFO]: ItsnotOllie1[/172.26.11.41:61852] logged in with entity id 5493 at (-2421.4896853329055, 183.4777423082679, -2818.3595087873964)
-[21:24:28] [Server thread/INFO]: ItsnotOllie1 joined the game
-[21:24:28] [Server thread/INFO]: [voicechat] Received secret request of ItsnotOllie1 (18)
-[21:24:28] [Server thread/INFO]: [voicechat] Sent secret to ItsnotOllie1
-[21:24:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 9437c394-a79f-4a17-8baa-951fe0785415
-[21:24:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 9437c394-a79f-4a17-8baa-951fe0785415
-[21:24:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player ItsnotOllie1 (9437c394-a79f-4a17-8baa-951fe0785415) successfully connected to voice chat
-[21:24:40] [Server thread/INFO]: <ItsnotOllie1> hiiii
-[21:24:42] [Server thread/INFO]: [discoinferno_: Gave 1 [Spyglass] to discoinferno_]
-[21:24:44] [Server thread/INFO]: <ItsnotOllie1> u here
-[21:24:51] [Server thread/INFO]: <discoinferno_> hehe yes
-[21:25:07] [Server thread/INFO]: <ItsnotOllie1> woahhh
-[21:40:43] [Server thread/INFO]: ItsnotOllie1 lost connection: Disconnected
-[21:40:43] [Server thread/INFO]: ItsnotOllie1 left the game
-[21:40:43] [Server thread/INFO]: [voicechat] Disconnecting client ItsnotOllie1
-[22:06:03] [Server thread/INFO]: discoinferno_ lost connection: Disconnected
-[22:06:03] [Server thread/INFO]: discoinferno_ left the game
-[22:06:03] [Server thread/INFO]: [voicechat] Disconnecting client discoinferno_
-[22:07:03] [Server thread/INFO]: Server empty for 60 seconds, pausing
->>>>>>> Stashed changes
+[22:40:09] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[22:40:09] [main/INFO]: Loaded 1373 recipes
+[22:40:09] [main/INFO]: Loaded 1484 advancements
+[22:40:09] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 710.0 μs
+[22:40:09] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[22:40:09] [Server thread/INFO]: Loading properties
+[22:40:09] [Server thread/INFO]: Default game type: SURVIVAL
+[22:40:09] [Server thread/INFO]: Generating keypair
+[22:40:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:40:09] [Server thread/INFO]: Using default channel type
+[22:40:10] [Server thread/INFO]: Preparing level "world"
+[22:40:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:40:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:40:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:40:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:40:11] [Server thread/INFO]: Time elapsed: 1180 ms
+[22:40:11] [Server thread/INFO]: Done (1.350s)! For help, type "help"
+[22:40:11] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[22:40:12] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[22:40:28] [Server thread/INFO]: Stopping the server
+[22:40:28] [Server thread/INFO]: Stopping server
+[22:40:28] [Server thread/INFO]: Saving players
+[22:40:28] [Server thread/INFO]: Saving worlds
+[22:40:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:40:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:40:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:40:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:40:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:40:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:40:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
