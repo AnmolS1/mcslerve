@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+cd ~/GitHub/mcslerve
+
 git pull
 
 committer="session on $(date '+%b %d %Y at %I:%M:%S %p')"
