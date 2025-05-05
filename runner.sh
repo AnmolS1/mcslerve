@@ -2,7 +2,7 @@
 
 git pull
 
-printf -v committer 'session on %(%b %d %Y at %I:%M:%S %p)T\n' -1
+committer="session on $(date '+%b %d %Y at %I:%M:%S %p')"
 
 java -Xmx4G -jar fabric-server-launch.jar nogui
 
