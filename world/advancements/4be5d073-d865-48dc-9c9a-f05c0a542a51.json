@@ -181,15 +181,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2025-05-05 00:36:30 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-05-05 00:36:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-05-05 00:36:30 -0500"
     },
     "done": true
   },
@@ -244,6 +244,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-05-05 00:36:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-07 00:38:17 -0500"
     },
     "done": true
   },
