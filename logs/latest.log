@@ -1,172 +1,100 @@
-[00:38:08] [Server thread/INFO]: [discoinferno_: Set the weather to clear]
-[00:38:17] [Server thread/INFO]: discoinferno_ has made the advancement [Sweet Dreams]
-[03:51:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4be5d073-d865-48dc-9c9a-f05c0a542a51 timed out
-[03:51:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player discoinferno_
-[03:51:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to discoinferno_
-[03:51:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[03:51:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[03:51:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
-[03:59:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4be5d073-d865-48dc-9c9a-f05c0a542a51 timed out
-[03:59:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player discoinferno_
-[03:59:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to discoinferno_
-[03:59:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[03:59:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[03:59:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
-[04:10:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4be5d073-d865-48dc-9c9a-f05c0a542a51 timed out
-[04:10:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player discoinferno_
-[04:10:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to discoinferno_
-[04:10:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[04:10:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[04:10:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
-[04:22:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4be5d073-d865-48dc-9c9a-f05c0a542a51 timed out
-[04:22:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player discoinferno_
-[04:22:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to discoinferno_
-[04:22:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[04:22:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[04:22:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
-[04:25:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4be5d073-d865-48dc-9c9a-f05c0a542a51 timed out
-[04:25:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player discoinferno_
-[04:25:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to discoinferno_
-[04:25:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[04:25:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[04:25:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
-[04:32:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4be5d073-d865-48dc-9c9a-f05c0a542a51 timed out
-[04:32:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player discoinferno_
-[04:32:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to discoinferno_
-[04:32:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[04:32:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[04:32:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
-[05:26:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4be5d073-d865-48dc-9c9a-f05c0a542a51 timed out
-[05:26:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player discoinferno_
-[05:26:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to discoinferno_
-[05:26:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[05:26:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[05:26:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
-[05:33:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4be5d073-d865-48dc-9c9a-f05c0a542a51 timed out
-[05:33:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player discoinferno_
-[05:33:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to discoinferno_
-[05:33:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[05:33:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[05:33:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
-[06:22:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4be5d073-d865-48dc-9c9a-f05c0a542a51 timed out
-[06:22:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player discoinferno_
-[06:22:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to discoinferno_
-[06:22:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[06:22:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[06:22:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
-[06:23:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4be5d073-d865-48dc-9c9a-f05c0a542a51 timed out
-[06:23:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player discoinferno_
-[06:23:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to discoinferno_
-[06:23:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[06:23:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[06:23:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
-[06:34:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4be5d073-d865-48dc-9c9a-f05c0a542a51 timed out
-[06:34:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player discoinferno_
-[06:34:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to discoinferno_
-[06:34:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[06:34:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[06:34:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
-[07:09:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4be5d073-d865-48dc-9c9a-f05c0a542a51 timed out
-[07:09:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player discoinferno_
-[07:09:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to discoinferno_
-[07:09:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[07:09:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[07:09:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
-[07:12:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4be5d073-d865-48dc-9c9a-f05c0a542a51 timed out
-[07:12:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player discoinferno_
-[07:12:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to discoinferno_
-[07:12:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[07:12:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[07:12:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
-[07:15:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4be5d073-d865-48dc-9c9a-f05c0a542a51 timed out
-[07:15:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player discoinferno_
-[07:15:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to discoinferno_
-[07:15:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[07:16:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[07:16:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
-[07:35:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4be5d073-d865-48dc-9c9a-f05c0a542a51 timed out
-[07:35:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player discoinferno_
-[07:35:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to discoinferno_
-[07:35:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[07:35:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[07:35:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
-[07:44:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4be5d073-d865-48dc-9c9a-f05c0a542a51 timed out
-[07:44:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player discoinferno_
-[07:44:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to discoinferno_
-[07:44:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[07:44:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[07:44:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
-[07:46:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4be5d073-d865-48dc-9c9a-f05c0a542a51 timed out
-[07:46:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player discoinferno_
-[07:46:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to discoinferno_
-[07:46:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[07:46:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[07:46:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
-[07:58:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4be5d073-d865-48dc-9c9a-f05c0a542a51 timed out
-[07:58:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player discoinferno_
-[07:58:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to discoinferno_
-[07:58:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[07:58:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[07:58:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
-[08:15:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4be5d073-d865-48dc-9c9a-f05c0a542a51 timed out
-[08:15:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player discoinferno_
-[08:15:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to discoinferno_
-[08:15:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[08:15:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[08:15:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
-[08:36:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4be5d073-d865-48dc-9c9a-f05c0a542a51 timed out
-[08:36:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player discoinferno_
-[08:36:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to discoinferno_
-[08:36:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[08:36:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[08:36:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
-[08:43:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4be5d073-d865-48dc-9c9a-f05c0a542a51 timed out
-[08:43:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player discoinferno_
-[08:43:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to discoinferno_
-[08:43:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[08:43:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[08:43:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
-[09:27:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4be5d073-d865-48dc-9c9a-f05c0a542a51 timed out
-[09:27:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player discoinferno_
-[09:27:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to discoinferno_
-[09:27:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[09:27:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[09:27:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
-[09:37:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4be5d073-d865-48dc-9c9a-f05c0a542a51 timed out
-[09:37:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player discoinferno_
-[09:37:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to discoinferno_
-[09:37:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[09:37:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[09:37:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
-[09:59:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4be5d073-d865-48dc-9c9a-f05c0a542a51 timed out
-[09:59:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player discoinferno_
-[09:59:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to discoinferno_
-[09:59:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[09:59:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[09:59:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
-[10:04:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4be5d073-d865-48dc-9c9a-f05c0a542a51 timed out
-[10:04:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player discoinferno_
-[10:04:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to discoinferno_
-[10:04:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[10:04:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[10:04:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
-[10:09:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4be5d073-d865-48dc-9c9a-f05c0a542a51 timed out
-[10:09:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player discoinferno_
-[10:09:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to discoinferno_
-[10:09:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[10:09:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[10:09:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
-[10:09:16] [Server thread/INFO]: discoinferno_ lost connection: Disconnected
-[10:09:16] [Server thread/INFO]: discoinferno_ left the game
-[10:09:16] [Server thread/INFO]: [voicechat] Disconnecting client discoinferno_
-[10:09:22] [Server thread/INFO]: Stopping the server
-[10:09:22] [Server thread/INFO]: Stopping server
-[10:09:22] [Server thread/INFO]: Saving players
-[10:09:22] [Server thread/INFO]: Saving worlds
-[10:09:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[10:09:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[10:09:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[10:09:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[10:09:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10:09:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:09:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:07:49] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
+[18:07:49] [main/INFO]: Loading 45 mods:
+	- fabric-api 0.121.0+1.21.5
+	   |-- fabric-api-base 0.4.62+73a52b4b49
+	   |-- fabric-api-lookup-api-v1 1.6.95+86c3a9f149
+	   |-- fabric-biome-api-v1 16.0.7+2dd063df49
+	   |-- fabric-block-api-v1 1.0.37+86c3a9f149
+	   |-- fabric-block-view-api-v2 1.0.26+aa6d566c49
+	   |-- fabric-blockrenderlayer-v1 2.0.16+86c3a9f149
+	   |-- fabric-client-tags-api-v1 1.1.37+86c3a9f149
+	   |-- fabric-command-api-v1 1.2.70+f71b366f49
+	   |-- fabric-command-api-v2 2.2.49+73a52b4b49
+	   |-- fabric-commands-v0 0.2.87+df3654b349
+	   |-- fabric-content-registries-v0 10.0.12+3e6c1f7d49
+	   |-- fabric-convention-tags-v1 2.1.29+7f945d5b49
+	   |-- fabric-convention-tags-v2 2.14.3+fca633a049
+	   |-- fabric-crash-report-info-v1 0.3.12+86c3a9f149
+	   |-- fabric-data-attachment-api-v1 1.7.0+9c0dd47249
+	   |-- fabric-data-generation-api-v1 22.3.4+fd2b524049
+	   |-- fabric-dimensions-v1 4.0.17+3e6c1f7d49
+	   |-- fabric-entity-events-v1 2.0.25+27c1078f49
+	   |-- fabric-events-interaction-v0 4.0.13+73a52b4b49
+	   |-- fabric-game-rule-api-v1 1.0.70+c327076a49
+	   |-- fabric-item-api-v1 11.3.2+2ccdb6ef49
+	   |-- fabric-item-group-api-v1 4.2.8+3459fc6149
+	   |-- fabric-key-binding-api-v1 1.0.63+ecf51cdc49
+	   |-- fabric-keybindings-v0 0.2.61+df3654b349
+	   |-- fabric-lifecycle-events-v1 2.5.13+5cbce67349
+	   |-- fabric-loot-api-v2 3.0.47+3f89f5a549
+	   |-- fabric-loot-api-v3 1.0.35+86c3a9f149
+	   |-- fabric-message-api-v1 6.0.33+86c3a9f149
+	   |-- fabric-model-loading-api-v1 5.2.0+c982b95149
+	   |-- fabric-networking-api-v1 4.4.0+f3ffa98949
+	   |-- fabric-object-builder-api-v1 21.0.0+7b20cbb049
+	   |-- fabric-particles-v1 4.1.1+112e550e49
+	   |-- fabric-recipe-api-v1 8.1.6+052a85d049
+	   |-- fabric-registry-sync-v0 6.1.20+b556383249
+	   |-- fabric-renderer-api-v1 6.0.2+c982b95149
+	   |-- fabric-renderer-indigo 3.0.3+3e6c1f7d49
+	   |-- fabric-rendering-data-attachment-v1 0.3.64+73761d2e49
+	   |-- fabric-rendering-fluids-v1 3.1.27+86c3a9f149
+	   |-- fabric-rendering-v1 11.1.11+081cc04349
+	   |-- fabric-resource-conditions-api-v1 5.0.21+73a52b4b49
+	   |-- fabric-resource-loader-v0 3.1.6+02ca679649
+	   |-- fabric-screen-api-v1 2.0.46+86c3a9f149
+	   |-- fabric-screen-handler-api-v1 1.3.127+c327076a49
+	   |-- fabric-sound-api-v1 1.0.38+86c3a9f149
+	   |-- fabric-tag-api-v1 1.0.16+ecf51cdc49
+	   |-- fabric-transfer-api-v1 5.4.23+7b20cbb049
+	   \-- fabric-transitive-access-wideners-v1 6.3.17+f17a180c49
+	- fabricloader 0.16.14
+	   \-- mixinextras 0.4.1
+	- java 24
+	- minecraft 1.21.5
+	- voicechat 1.21.5-2.5.30
+	   \-- fabric-key-binding-api-v1 1.0.63+ecf51cdc07
+	- worldedit 7.3.12-beta-02+ac380ad
+	- xaerominimap 25.2.5
+[18:07:49] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/Users/anmolu/GitHub/mcslerve/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[18:07:49] [main/INFO]: Compatibility level set to JAVA_21
+[18:07:49] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[18:07:52] [main/INFO]: [voicechat] Compatibility version 18
+[18:07:52] [main/INFO]: [voicechat] Loading plugins
+[18:07:52] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[18:07:52] [main/INFO]: [voicechat] Initializing plugins
+[18:07:52] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[18:07:52] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@36d49f3f]
+[18:07:52] [main/INFO]: WorldEdit for Fabric (version 7.3.12-beta-02+ac380ad) is loaded
+[18:07:52] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[18:07:52] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:07:53] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[18:07:53] [main/INFO]: Loaded 1373 recipes
+[18:07:53] [main/INFO]: Loaded 1484 advancements
+[18:07:53] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 501.6 μs
+[18:07:53] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[18:07:53] [Server thread/INFO]: Loading properties
+[18:07:53] [Server thread/INFO]: Default game type: SURVIVAL
+[18:07:53] [Server thread/INFO]: Generating keypair
+[18:07:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:07:53] [Server thread/INFO]: Using default channel type
+[18:07:53] [Server thread/INFO]: Preparing level "world"
+[18:07:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:07:53] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[18:07:53] [Server thread/INFO]: Time elapsed: 422 ms
+[18:07:53] [Server thread/INFO]: Done (0.604s)! For help, type "help"
+[18:07:53] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[18:07:54] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[18:08:54] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:25:12] [User Authenticator #1/INFO]: UUID of player discoinferno_ is 4be5d073-d865-48dc-9c9a-f05c0a542a51
+[19:25:13] [Server thread/INFO]: discoinferno_[/127.0.0.1:59436] logged in with entity id 32 at (-2464.749650421355, 163.01586811340056, -2804.558478866091)
+[19:25:13] [Server thread/INFO]: discoinferno_ joined the game
+[19:25:16] [Server thread/INFO]: [voicechat] Received secret request of discoinferno_ (18)
+[19:25:16] [Server thread/INFO]: [voicechat] Sent secret to discoinferno_
+[19:25:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
+[19:25:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
+[19:25:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
+[19:25:42] [Server thread/INFO]: discoinferno_ lost connection: Disconnected
+[19:25:42] [Server thread/INFO]: discoinferno_ left the game
+[19:25:42] [Server thread/INFO]: [voicechat] Disconnecting client discoinferno_
+[19:26:42] [Server thread/INFO]: Server empty for 60 seconds, pausing
