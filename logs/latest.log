@@ -1,5 +1,5 @@
-[22:35:07] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
-[22:35:07] [main/INFO]: Loading 45 mods:
+[22:38:13] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
+[22:38:14] [main/INFO]: Loading 45 mods:
 	- fabric-api 0.121.0+1.21.5
 	   |-- fabric-api-base 0.4.62+73a52b4b49
 	   |-- fabric-api-lookup-api-v1 1.6.95+86c3a9f149
@@ -56,43 +56,43 @@
 	   \-- fabric-key-binding-api-v1 1.0.63+ecf51cdc07
 	- worldedit 7.3.12-beta-02+ac380ad
 	- xaerominimap 25.2.5
-[22:35:07] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/Users/anmolu/GitHub/mcslerve/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[22:35:07] [main/INFO]: Compatibility level set to JAVA_21
-[22:35:07] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[22:35:09] [main/INFO]: [voicechat] Compatibility version 18
-[22:35:09] [main/INFO]: [voicechat] Loading plugins
-[22:35:09] [main/INFO]: [voicechat] Loaded 0 plugin(s)
-[22:35:09] [main/INFO]: [voicechat] Initializing plugins
-[22:35:09] [main/INFO]: [voicechat] Initialized 0 plugin(s)
-[22:35:10] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@36d49f3f]
-[22:35:10] [main/INFO]: WorldEdit for Fabric (version 7.3.12-beta-02+ac380ad) is loaded
-[22:35:10] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[22:35:10] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:35:10] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
-[22:35:10] [main/INFO]: Loaded 1373 recipes
-[22:35:10] [main/INFO]: Loaded 1484 advancements
-[22:35:10] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 539.3 μs
-[22:35:10] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[22:35:10] [Server thread/INFO]: Loading properties
-[22:35:10] [Server thread/INFO]: Default game type: SURVIVAL
-[22:35:10] [Server thread/INFO]: Generating keypair
-[22:35:10] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:35:10] [Server thread/INFO]: Using default channel type
-[22:35:10] [Server thread/INFO]: Preparing level "world"
-[22:35:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:35:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:35:11] [Server thread/INFO]: Time elapsed: 397 ms
-[22:35:11] [Server thread/INFO]: Done (0.549s)! For help, type "help"
-[22:35:11] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[22:35:11] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[22:35:17] [Server thread/INFO]: Stopping the server
-[22:35:17] [Server thread/INFO]: Stopping server
-[22:35:17] [Server thread/INFO]: Saving players
-[22:35:17] [Server thread/INFO]: Saving worlds
-[22:35:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:35:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:35:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:35:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:35:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:35:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:35:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:38:14] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/Users/anmolu/GitHub/mcslerve/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:38:14] [main/INFO]: Compatibility level set to JAVA_21
+[22:38:14] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[22:38:16] [main/INFO]: [voicechat] Compatibility version 18
+[22:38:16] [main/INFO]: [voicechat] Loading plugins
+[22:38:16] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[22:38:16] [main/INFO]: [voicechat] Initializing plugins
+[22:38:16] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[22:38:16] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@6272c08f]
+[22:38:16] [main/INFO]: WorldEdit for Fabric (version 7.3.12-beta-02+ac380ad) is loaded
+[22:38:16] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[22:38:16] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:38:17] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[22:38:17] [main/INFO]: Loaded 1373 recipes
+[22:38:17] [main/INFO]: Loaded 1484 advancements
+[22:38:17] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 496.0 μs
+[22:38:17] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[22:38:17] [Server thread/INFO]: Loading properties
+[22:38:17] [Server thread/INFO]: Default game type: SURVIVAL
+[22:38:17] [Server thread/INFO]: Generating keypair
+[22:38:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:38:17] [Server thread/INFO]: Using default channel type
+[22:38:17] [Server thread/INFO]: Preparing level "world"
+[22:38:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:38:18] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:38:18] [Server thread/INFO]: Time elapsed: 418 ms
+[22:38:18] [Server thread/INFO]: Done (0.563s)! For help, type "help"
+[22:38:18] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[22:38:18] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[22:38:45] [Server thread/INFO]: Stopping the server
+[22:38:45] [Server thread/INFO]: Stopping server
+[22:38:45] [Server thread/INFO]: Saving players
+[22:38:45] [Server thread/INFO]: Saving worlds
+[22:38:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:38:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:38:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:38:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:38:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:38:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:38:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
