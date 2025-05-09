@@ -1,5 +1,5 @@
-[22:41:09] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
-[22:41:09] [main/INFO]: Loading 45 mods:
+[22:49:18] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
+[22:49:18] [main/INFO]: Loading 45 mods:
 	- fabric-api 0.121.0+1.21.5
 	   |-- fabric-api-base 0.4.62+73a52b4b49
 	   |-- fabric-api-lookup-api-v1 1.6.95+86c3a9f149
@@ -56,33 +56,32 @@
 	   \-- fabric-key-binding-api-v1 1.0.63+ecf51cdc07
 	- worldedit 7.3.12-beta-02+ac380ad
 	- xaerominimap 25.2.5
-[22:41:09] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/Users/anmolu/GitHub/mcslerve/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[22:41:09] [main/INFO]: Compatibility level set to JAVA_21
-[22:41:09] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[22:41:12] [main/INFO]: [voicechat] Compatibility version 18
-[22:41:12] [main/INFO]: [voicechat] Loading plugins
-[22:41:12] [main/INFO]: [voicechat] Loaded 0 plugin(s)
-[22:41:12] [main/INFO]: [voicechat] Initializing plugins
-[22:41:12] [main/INFO]: [voicechat] Initialized 0 plugin(s)
-[22:41:12] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@5abb9f5d]
-[22:41:12] [main/INFO]: WorldEdit for Fabric (version 7.3.12-beta-02+ac380ad) is loaded
-[22:41:12] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[22:41:12] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:41:12] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
-[22:41:13] [main/INFO]: Loaded 1373 recipes
-[22:41:13] [main/INFO]: Loaded 1484 advancements
-[22:41:13] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 572.8 μs
-[22:41:13] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[22:41:13] [Server thread/INFO]: Loading properties
-[22:41:13] [Server thread/INFO]: Default game type: SURVIVAL
-[22:41:13] [Server thread/INFO]: Generating keypair
-[22:41:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:41:13] [Server thread/INFO]: Using default channel type
-[22:41:13] [Server thread/INFO]: Preparing level "world"
-[22:41:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:41:13] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[22:41:13] [Server thread/INFO]: Time elapsed: 501 ms
-[22:41:13] [Server thread/INFO]: Done (0.661s)! For help, type "help"
-[22:41:13] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[22:41:14] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[22:42:14] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[22:49:18] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/Users/anmolu/GitHub/mcslerve/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:49:18] [main/INFO]: Compatibility level set to JAVA_21
+[22:49:19] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[22:49:21] [main/INFO]: [voicechat] Compatibility version 18
+[22:49:21] [main/INFO]: [voicechat] Loading plugins
+[22:49:21] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[22:49:21] [main/INFO]: [voicechat] Initializing plugins
+[22:49:21] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[22:49:21] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@569c2ade]
+[22:49:21] [main/INFO]: WorldEdit for Fabric (version 7.3.12-beta-02+ac380ad) is loaded
+[22:49:21] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[22:49:21] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:49:22] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[22:49:22] [main/INFO]: Loaded 1373 recipes
+[22:49:22] [main/INFO]: Loaded 1484 advancements
+[22:49:22] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 513.0 μs
+[22:49:22] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[22:49:22] [Server thread/INFO]: Loading properties
+[22:49:22] [Server thread/INFO]: Default game type: SURVIVAL
+[22:49:22] [Server thread/INFO]: Generating keypair
+[22:49:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:49:22] [Server thread/INFO]: Using default channel type
+[22:49:22] [Server thread/INFO]: Preparing level "world"
+[22:49:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:49:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:49:22] [Server thread/INFO]: Time elapsed: 313 ms
+[22:49:22] [Server thread/INFO]: Done (0.479s)! For help, type "help"
+[22:49:22] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[22:49:23] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
