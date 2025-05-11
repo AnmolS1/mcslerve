@@ -1,5 +1,5 @@
-[22:50:43] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
-[22:50:43] [main/INFO]: Loading 45 mods:
+[20:50:48] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
+[20:50:48] [main/INFO]: Loading 45 mods:
 	- fabric-api 0.121.0+1.21.5
 	   |-- fabric-api-base 0.4.62+73a52b4b49
 	   |-- fabric-api-lookup-api-v1 1.6.95+86c3a9f149
@@ -56,32 +56,160 @@
 	   \-- fabric-key-binding-api-v1 1.0.63+ecf51cdc07
 	- worldedit 7.3.12-beta-02+ac380ad
 	- xaerominimap 25.2.5
-[22:50:43] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/Users/anmolu/GitHub/mcslerve/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[22:50:43] [main/INFO]: Compatibility level set to JAVA_21
-[22:50:44] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[22:50:46] [main/INFO]: [voicechat] Compatibility version 18
-[22:50:46] [main/INFO]: [voicechat] Loading plugins
-[22:50:46] [main/INFO]: [voicechat] Loaded 0 plugin(s)
-[22:50:46] [main/INFO]: [voicechat] Initializing plugins
-[22:50:46] [main/INFO]: [voicechat] Initialized 0 plugin(s)
-[22:50:46] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@52d0d545]
-[22:50:46] [main/INFO]: WorldEdit for Fabric (version 7.3.12-beta-02+ac380ad) is loaded
-[22:50:46] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[22:50:46] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:50:47] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
-[22:50:47] [main/INFO]: Loaded 1373 recipes
-[22:50:47] [main/INFO]: Loaded 1484 advancements
-[22:50:47] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 525.0 μs
-[22:50:47] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[22:50:47] [Server thread/INFO]: Loading properties
-[22:50:47] [Server thread/INFO]: Default game type: SURVIVAL
-[22:50:47] [Server thread/INFO]: Generating keypair
-[22:50:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:50:47] [Server thread/INFO]: Using default channel type
-[22:50:47] [Server thread/INFO]: Preparing level "world"
-[22:50:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:50:48] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[22:50:48] [Server thread/INFO]: Time elapsed: 402 ms
-[22:50:48] [Server thread/INFO]: Done (0.580s)! For help, type "help"
-[22:50:48] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[22:50:48] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[20:50:48] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/Users/anmolu/GitHub/mcslerve/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[20:50:48] [main/INFO]: Compatibility level set to JAVA_21
+[20:50:49] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[20:50:51] [main/INFO]: [voicechat] Compatibility version 18
+[20:50:51] [main/INFO]: [voicechat] Loading plugins
+[20:50:51] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[20:50:51] [main/INFO]: [voicechat] Initializing plugins
+[20:50:51] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[20:50:51] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@66f7199d]
+[20:50:51] [main/INFO]: WorldEdit for Fabric (version 7.3.12-beta-02+ac380ad) is loaded
+[20:50:51] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[20:50:51] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:50:52] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[20:50:52] [main/INFO]: Loaded 1373 recipes
+[20:50:52] [main/INFO]: Loaded 1484 advancements
+[20:50:52] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 574.3 μs
+[20:50:52] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[20:50:52] [Server thread/INFO]: Loading properties
+[20:50:52] [Server thread/INFO]: Default game type: SURVIVAL
+[20:50:52] [Server thread/INFO]: Generating keypair
+[20:50:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:50:52] [Server thread/INFO]: Using default channel type
+[20:50:52] [Server thread/INFO]: Preparing level "world"
+[20:50:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:50:53] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[20:50:53] [Server thread/INFO]: Time elapsed: 374 ms
+[20:50:53] [Server thread/INFO]: Done (0.498s)! For help, type "help"
+[20:50:53] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[20:50:53] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[20:51:53] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:52:31] [User Authenticator #1/INFO]: UUID of player discoinferno_ is 4be5d073-d865-48dc-9c9a-f05c0a542a51
+[20:52:32] [Server thread/INFO]: discoinferno_[/127.0.0.1:64019] logged in with entity id 32 at (-2437.3286181862213, 162.08999047646057, -2792.136714637285)
+[20:52:32] [Server thread/INFO]: discoinferno_ joined the game
+[20:52:36] [Server thread/INFO]: [voicechat] Received secret request of discoinferno_ (18)
+[20:52:36] [Server thread/INFO]: [voicechat] Sent secret to discoinferno_
+[20:52:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
+[20:52:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
+[20:52:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
+[21:13:04] [User Authenticator #2/INFO]: UUID of player ItsnotOllie1 is 9437c394-a79f-4a17-8baa-951fe0785415
+[21:13:05] [Server thread/INFO]: ItsnotOllie1[/172.26.11.41:54014] logged in with entity id 2390 at (-2418.2747533791808, 185.41346615826353, -2844.4372421386997)
+[21:13:05] [Server thread/INFO]: ItsnotOllie1 joined the game
+[21:13:05] [Server thread/INFO]: [voicechat] Received secret request of ItsnotOllie1 (18)
+[21:13:05] [Server thread/INFO]: [voicechat] Sent secret to ItsnotOllie1
+[21:13:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 9437c394-a79f-4a17-8baa-951fe0785415
+[21:13:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 9437c394-a79f-4a17-8baa-951fe0785415
+[21:13:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player ItsnotOllie1 (9437c394-a79f-4a17-8baa-951fe0785415) successfully connected to voice chat
+[21:13:09] [Server thread/INFO]: <ItsnotOllie1> hiii
+[21:13:16] [Server thread/INFO]: <discoinferno_> helloooo
+[21:22:24] [Server thread/INFO]: <discoinferno_> sure thing
+[21:22:30] [Server thread/INFO]: <discoinferno_> okie dokie
+[21:24:23] [Server thread/INFO]: <ItsnotOllie1> OMG
+[21:24:30] [Server thread/INFO]: <ItsnotOllie1> I FOUND SMTH
+[21:24:36] [Server thread/INFO]: <ItsnotOllie1> SOOO CUTTTTEEEE
+[21:27:23] [Server thread/INFO]: <discoinferno_> ope sorry went to get laundry
+[21:27:25] [Server thread/INFO]: <discoinferno_> whats up
+[21:27:29] [Server thread/INFO]: <ItsnotOllie1> LOOOK
+[21:27:34] [Server thread/INFO]: <discoinferno_> where
+[21:27:43] [Server thread/INFO]: <ItsnotOllie1> hereee
+[21:27:55] [Server thread/INFO]: <ItsnotOllie1> look on ther map to see me
+[21:29:45] [Server thread/INFO]: <ItsnotOllie1> i can't hear you
+[21:29:50] [Server thread/INFO]: <discoinferno_> uh oh
+[21:29:52] [Server thread/INFO]: <ItsnotOllie1> can you hear me
+[21:29:52] [Server thread/INFO]: <discoinferno_> i cant hear you
+[21:29:57] [Server thread/INFO]: <ItsnotOllie1> ok i broke it
+[21:30:05] [Server thread/INFO]: <discoinferno_> wait ok
+[21:30:12] [Server thread/INFO]: <discoinferno_> are you connected to the mcslerve vpn thingy?
+[21:30:19] [Server thread/INFO]: <ItsnotOllie1> yes
+[21:30:49] [Server thread/INFO]: <ItsnotOllie1> still can't hear you
+[21:31:03] [Server thread/INFO]: <ItsnotOllie1> i think i did something on my settings
+[21:31:06] [Server thread/INFO]: ItsnotOllie1 lost connection: Disconnected
+[21:31:06] [Server thread/INFO]: ItsnotOllie1 left the game
+[21:31:06] [Server thread/INFO]: [voicechat] Disconnecting client ItsnotOllie1
+[21:31:09] [User Authenticator #3/INFO]: UUID of player ItsnotOllie1 is 9437c394-a79f-4a17-8baa-951fe0785415
+[21:31:10] [Server thread/INFO]: ItsnotOllie1[/172.26.11.41:54822] logged in with entity id 4488 at (-2472.45317980182, 164.17631422566743, -2890.4559847102882)
+[21:31:10] [Server thread/INFO]: ItsnotOllie1 joined the game
+[21:31:10] [Server thread/INFO]: [voicechat] Received secret request of ItsnotOllie1 (18)
+[21:31:10] [Server thread/INFO]: [voicechat] Sent secret to ItsnotOllie1
+[21:31:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 9437c394-a79f-4a17-8baa-951fe0785415
+[21:31:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 9437c394-a79f-4a17-8baa-951fe0785415
+[21:31:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player ItsnotOllie1 (9437c394-a79f-4a17-8baa-951fe0785415) successfully connected to voice chat
+[21:33:56] [Server thread/INFO]: [discoinferno_: Gave 1 [Sweet Berries] to discoinferno_]
+[21:34:37] [Server thread/INFO]: [discoinferno_: Gave 1 [Sweet Berries] to discoinferno_]
+[21:39:34] [Server thread/INFO]: [discoinferno_: Summoned new Fox]
+[21:45:03] [Server thread/INFO]: [discoinferno_: Set own game mode to Survival Mode]
+[21:45:03] [Server thread/INFO]: [discoinferno_: Set ItsnotOllie1's game mode to Survival Mode]
+[21:46:06] [Server thread/INFO]: [discoinferno_: Set own game mode to Creative Mode]
+[21:48:26] [Server thread/INFO]: discoinferno_ has made the advancement [Getting an Upgrade]
+[21:48:35] [Server thread/INFO]: ItsnotOllie1 has made the advancement [Getting an Upgrade]
+[21:50:08] [Server thread/INFO]: discoinferno_ has made the advancement [Isn't It Iron Pick]
+[21:52:44] [Server thread/INFO]: [discoinferno_: Set own game mode to Survival Mode]
+[21:53:15] [Server thread/INFO]: discoinferno_ has made the advancement [Monster Hunter]
+[21:53:22] [Server thread/INFO]: ItsnotOllie1 was slain by Zombie
+[21:54:27] [Server thread/INFO]: ItsnotOllie1 was slain by Zombie
+[21:54:42] [Server thread/INFO]: [discoinferno_: Gamerule keepInventory is now set to: true]
+[21:55:15] [Server thread/INFO]: [discoinferno_: The difficulty has been set to Peaceful]
+[21:56:26] [Server thread/INFO]: discoinferno_ has made the advancement [Stone Age]
+[21:57:03] [Server thread/INFO]: ItsnotOllie1 has made the advancement [Stone Age]
+[22:06:28] [Server thread/INFO]: <discoinferno_> diyaaaa
+[22:06:31] [Server thread/INFO]: <discoinferno_> how's it going
+[22:06:34] [Server thread/INFO]: <ItsnotOllie1> hiii
+[22:06:36] [Server thread/INFO]: <ItsnotOllie1> ehhh
+[22:06:38] [Server thread/INFO]: <discoinferno_> haven't seen any death messages in a minute lol
+[22:06:46] [Server thread/INFO]: <ItsnotOllie1> i got some wood for the sticks
+[22:06:52] [Server thread/INFO]: <ItsnotOllie1> but no iron yet
+[22:06:52] [Server thread/INFO]: <discoinferno_> okok noice
+[22:07:04] [Server thread/INFO]: <discoinferno_> no worries, u gotta get deeper than u think u do
+[22:07:09] [Server thread/INFO]: <discoinferno_> u should actually google it
+[22:07:38] [Server thread/INFO]: <ItsnotOllie1> okki
+[22:07:46] [Server thread/INFO]: <discoinferno_> and u can press f3 to see ur y level
+[22:09:02] [Server thread/INFO]: <ItsnotOllie1> the torch doesn't light when you hold it btw
+[22:09:11] [Server thread/INFO]: <discoinferno_> yeah ik :/
+[22:09:14] [Server thread/INFO]: <discoinferno_> it was an optifine thing
+[22:09:18] [Server thread/INFO]: <ItsnotOllie1> ohhh okok
+[22:09:24] [Server thread/INFO]: <discoinferno_> i'm gonna see if i can make a mod myself for it
+[22:12:16] [Server thread/INFO]: <discoinferno_> ok i've got half a stack of iron
+[22:12:20] [Server thread/INFO]: <discoinferno_> and almost 2 stacks of coal
+[22:12:21] [Server thread/INFO]: <ItsnotOllie1> danggg
+[22:12:23] [Server thread/INFO]: <ItsnotOllie1> ok
+[22:12:35] [Server thread/INFO]: <ItsnotOllie1> i got like 10 iron
+[22:24:54] [Server thread/INFO]: <ItsnotOllie1> hiii
+[22:25:01] [Server thread/INFO]: <ItsnotOllie1> i see youuu
+[22:25:01] [Server thread/INFO]: <discoinferno_> hiiii
+[22:25:08] [Server thread/INFO]: <discoinferno_> lol nice
+[22:25:55] [Server thread/INFO]: <discoinferno_> huh how
+[22:25:59] [Server thread/INFO]: <discoinferno_> ur so far away
+[22:26:19] [Server thread/INFO]: <ItsnotOllie1> i was just there in front of you and you didn't see me so i went away
+[22:26:26] [Server thread/INFO]: <discoinferno_> ope sorry :/
+[22:26:39] [Server thread/INFO]: <discoinferno_> wait diya
+[22:26:46] [Server thread/INFO]: <discoinferno_> i'm p much done
+[22:27:01] [Server thread/INFO]: <discoinferno_> i've got 2 stacks of iron and 4 stacks of coal
+[22:27:16] [Server thread/INFO]: <discoinferno_> i don't think i'll need much more
+[22:27:23] [Server thread/INFO]: <discoinferno_> and i should have enough for u too
+[22:27:30] [Server thread/INFO]: <ItsnotOllie1> okok
+[22:27:34] [Server thread/INFO]: <discoinferno_> lmk
+[22:27:39] [Server thread/INFO]: <ItsnotOllie1> ill meet you back at the baSE
+[22:27:40] [Server thread/INFO]: discoinferno_ fell from a high place
+[22:27:47] [Server thread/INFO]: <discoinferno_> im here
+[22:28:51] [Server thread/INFO]: <ItsnotOllie1> dang it
+[22:33:52] [Server thread/INFO]: ItsnotOllie1 lost connection: Disconnected
+[22:33:52] [Server thread/INFO]: ItsnotOllie1 left the game
+[22:33:52] [Server thread/INFO]: [voicechat] Disconnecting client ItsnotOllie1
+[22:38:22] [Server thread/INFO]: [discoinferno_: Set own game mode to Creative Mode]
+[22:47:14] [Server thread/INFO]: discoinferno_ has made the advancement [Acquire Hardware]
+[22:47:38] [Server thread/INFO]: discoinferno_ lost connection: Disconnected
+[22:47:38] [Server thread/INFO]: discoinferno_ left the game
+[22:47:38] [Server thread/INFO]: [voicechat] Disconnecting client discoinferno_
+[22:47:49] [Server thread/INFO]: Stopping the server
+[22:47:49] [Server thread/INFO]: Stopping server
+[22:47:49] [Server thread/INFO]: Saving players
+[22:47:49] [Server thread/INFO]: Saving worlds
+[22:47:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:47:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:47:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:47:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:47:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:47:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:47:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
