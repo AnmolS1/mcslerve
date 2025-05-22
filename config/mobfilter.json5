@@ -17,7 +17,9 @@
 			"when": {
 				"category": [ "MONSTER" ],
 				"dimensionId" : [ "minecraft:overworld" ],
-				
+				"blockX": [-2488, -2392],
+				"blockY": [-321, 512],
+				"blockZ": [-2963, -2737]
 			}
 		}
 	],
