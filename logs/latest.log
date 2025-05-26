@@ -1,5 +1,5 @@
-[03:43:15] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
-[03:43:15] [main/INFO]: Loading 53 mods:
+[03:46:32] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
+[03:46:33] [main/INFO]: Loading 53 mods:
 	- animalgarden_meerkat 1.0.1
 	- animalgarden_mouse 1.0.1
 	- animalgarden_owl 0.120.0
@@ -57,84 +57,15 @@
 	   \-- fabric-transitive-access-wideners-v1 6.3.17+f17a180c49
 	- fabricloader 0.16.14
 	   \-- mixinextras 0.4.1
-	- java 24
+	- java 21
 	- minecraft 1.21.5
 	- mobfilter 0.15.0+1.21.5
 	- voicechat 1.21.5-2.5.30
 	   \-- fabric-key-binding-api-v1 1.0.63+ecf51cdc07
 	- worldedit 7.3.12-beta-02+ac380ad
 	- xaerominimap 25.2.5
-[03:43:15] [main/WARN]: Found 1 non-fabric mod:
+[03:46:33] [main/WARN]: Found 1 non-fabric mod:
 	- paperapple.jar
-[03:43:15] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/Users/anmolu/GitHub/mcslerve/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[03:43:15] [main/INFO]: Compatibility level set to JAVA_21
-[03:43:15] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[03:43:17] [main/INFO]: [STDOUT]: All 4 have been set properly
-[03:43:17] [main/INFO]: [STDOUT]: animalgarden_meerkat: register everything...
-[03:43:17] [main/INFO]: [STDOUT]: All 4 have been set properly
-[03:43:17] [main/INFO]: [STDOUT]: animalgarden_mouse: register everything...
-[03:43:17] [main/INFO]: [STDOUT]: All 4 have been set properly
-[03:43:17] [main/INFO]: [STDOUT]: forest
-[03:43:17] [main/INFO]: [STDOUT]: flower_forest
-[03:43:17] [main/INFO]: [STDOUT]: birch_forest
-[03:43:17] [main/INFO]: [STDOUT]: old_growth_birch_forest
-[03:43:17] [main/INFO]: [STDOUT]: snowy_taiga
-[03:43:17] [main/INFO]: [STDOUT]: animalgarden_owl: register everything...
-[03:43:17] [main/INFO]: [STDOUT]: All 4 have been set properly
-[03:43:17] [main/INFO]: [STDOUT]: forest
-[03:43:17] [main/INFO]: [STDOUT]: flower_forest
-[03:43:17] [main/INFO]: [STDOUT]: birch_forest
-[03:43:17] [main/INFO]: [STDOUT]: old_growth_birch_forest
-[03:43:17] [main/INFO]: [STDOUT]: animalgarden_porcupine: register everything...
-[03:43:18] [main/INFO]: [voicechat] Compatibility version 18
-[03:43:18] [main/INFO]: [voicechat] Loading plugins
-[03:43:18] [main/INFO]: [voicechat] Loaded 0 plugin(s)
-[03:43:18] [main/INFO]: [voicechat] Initializing plugins
-[03:43:18] [main/INFO]: [voicechat] Initialized 0 plugin(s)
-[03:43:18] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@26926a93]
-[03:43:18] [main/INFO]: WorldEdit for Fabric (version 7.3.12-beta-02+ac380ad) is loaded
-[03:43:18] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[03:43:18] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:43:18] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
-[03:43:18] [main/INFO]: Loaded 1373 recipes
-[03:43:18] [main/INFO]: Loaded 1484 advancements
-[03:43:18] [main/INFO]: Applied 19 biome modifications to 10 of 65 new biomes in 2.156 ms
-[03:43:18] [Server thread/INFO]: [MobFilter] Loading config from /Users/anmolu/GitHub/mcslerve/config/mobfilter.json5
-[03:43:18] [Server thread/INFO]: [MobFilter] 1 rule(s) loaded:
-[03:43:18] [Server thread/INFO]: - FilterRule[ruleName=Valley of PEACE, checks=[CategoryCheck[categories=[MONSTER]], DimensionCheck[dimensionMatcher=[minecraft:overworld][]], BlockPosCheck[axis=x, min=-2488, max=-2392], BlockPosCheck[axis=y, min=-321, max=512], BlockPosCheck[axis=z, min=-2963, max=-2737]], action=DISALLOW_SPAWN]
-[03:43:18] [Server thread/INFO]: [MobFilter] Log level is INFO
-[03:43:18] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[03:43:18] [Server thread/INFO]: Loading properties
-[03:43:18] [Server thread/INFO]: Default game type: SURVIVAL
-[03:43:18] [Server thread/INFO]: Generating keypair
-[03:43:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:43:19] [Server thread/INFO]: Using default channel type
-[03:43:19] [Server thread/INFO]: Preparing level "world"
-[03:43:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:43:19] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[03:43:19] [Server thread/INFO]: Time elapsed: 458 ms
-[03:43:19] [Server thread/INFO]: Done (0.599s)! For help, type "help"
-[03:43:19] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[03:43:20] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[03:43:32] [User Authenticator #1/INFO]: UUID of player ItsnotOllie1 is 9437c394-a79f-4a17-8baa-951fe0785415
-[03:43:32] [Server thread/INFO]: ItsnotOllie1[/172.26.11.41:50004] logged in with entity id 34 at (-2432.0941909448416, 183.1777936217785, -2845.7920710982576)
-[03:43:32] [Server thread/INFO]: ItsnotOllie1 joined the game
-[03:43:33] [Server thread/INFO]: [voicechat] Received secret request of ItsnotOllie1 (18)
-[03:43:33] [Server thread/INFO]: [voicechat] Sent secret to ItsnotOllie1
-[03:43:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 9437c394-a79f-4a17-8baa-951fe0785415
-[03:43:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 9437c394-a79f-4a17-8baa-951fe0785415
-[03:43:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player ItsnotOllie1 (9437c394-a79f-4a17-8baa-951fe0785415) successfully connected to voice chat
-[03:43:59] [Server thread/INFO]: ItsnotOllie1 lost connection: Disconnected
-[03:43:59] [Server thread/INFO]: ItsnotOllie1 left the game
-[03:43:59] [Server thread/INFO]: [voicechat] Disconnecting client ItsnotOllie1
-[03:44:17] [Server thread/INFO]: Stopping the server
-[03:44:17] [Server thread/INFO]: Stopping server
-[03:44:17] [Server thread/INFO]: Saving players
-[03:44:17] [Server thread/INFO]: Saving worlds
-[03:44:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:44:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03:44:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03:44:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:44:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:44:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:44:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:46:33] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/Users/diyasaxena/GitHub/mcslerve/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[03:46:33] [main/INFO]: Compatibility level set to JAVA_21
+[03:46:33] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
