@@ -746,6 +746,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:enderman": "2025-05-26 21:54:19 -0500",
+      "minecraft:stray": "2025-05-26 22:05:49 -0500",
       "minecraft:spider": "2025-05-11 20:44:50 -0500",
       "minecraft:zombie": "2025-05-11 20:43:04 -0500"
     },
@@ -1174,6 +1176,78 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-23 18:55:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-05-26 22:34:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-05-26 21:57:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-26 22:34:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-05-26 22:34:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-05-26 22:34:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_wildflowers": {
+    "criteria": {
+      "has_wildflowers": "2025-05-26 23:11:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-26 22:34:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-26 22:34:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-26 22:34:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_cactus_flower": {
+    "criteria": {
+      "has_cactus_flower": "2025-05-26 22:36:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-26 22:34:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-05-26 22:34:28 -0500"
     },
     "done": true
   },
