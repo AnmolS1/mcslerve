@@ -115,15 +115,25 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:dark_forest": "2025-05-27 16:55:35 -0500",
+      "minecraft:stony_peaks": "2025-05-27 16:55:59 -0500",
       "minecraft:forest": "2025-05-11 20:52:50 -0500",
       "minecraft:taiga": "2025-05-11 20:52:49 -0500",
-      "minecraft:deep_dark": "2025-05-11 20:18:17 -0500",
       "minecraft:river": "2025-05-22 19:05:42 -0500",
-      "minecraft:grove": "2025-05-05 00:13:25 -0500",
-      "minecraft:meadow": "2025-05-05 00:35:22 -0500",
       "minecraft:dripstone_caves": "2025-05-10 21:56:05 -0500",
       "minecraft:frozen_peaks": "2025-05-04 23:30:48 -0500",
-      "minecraft:plains": "2025-05-11 20:52:56 -0500"
+      "minecraft:old_growth_birch_forest": "2025-05-27 16:50:02 -0500",
+      "minecraft:deep_dark": "2025-05-11 20:18:17 -0500",
+      "minecraft:grove": "2025-05-05 00:13:25 -0500",
+      "minecraft:meadow": "2025-05-05 00:35:22 -0500",
+      "minecraft:birch_forest": "2025-05-27 17:00:09 -0500",
+      "minecraft:windswept_gravelly_hills": "2025-05-27 16:54:51 -0500",
+      "minecraft:windswept_hills": "2025-05-27 16:55:02 -0500",
+      "minecraft:old_growth_spruce_taiga": "2025-05-27 16:56:50 -0500",
+      "minecraft:savanna": "2025-05-27 16:51:03 -0500",
+      "minecraft:wooded_badlands": "2025-05-27 16:49:06 -0500",
+      "minecraft:plains": "2025-05-11 20:52:56 -0500",
+      "minecraft:pale_garden": "2025-05-27 16:57:28 -0500"
     },
     "done": false
   },
@@ -388,6 +398,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-10 21:53:15 -0500",
+      "minecraft:witch": "2025-05-27 17:01:39 -0500",
       "minecraft:zombie": "2025-05-10 21:54:59 -0500"
     },
     "done": false
@@ -1488,6 +1499,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-05-26 21:48:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2025-05-27 16:51:39 -0500"
     },
     "done": true
   },
