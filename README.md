@@ -16,6 +16,7 @@
 
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
 	- [PaperApple](https://www.curseforge.com/minecraft/bukkit-plugins/paperapple)
+- [MinecraftCapes](https://www.curseforge.com/minecraft/mc-mods/minecraftcapes-mod)
 - [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
 - [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)
 - [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
@@ -30,4 +31,10 @@
 ## Texture Packs
 
 - [Fresh Animations](https://www.curseforge.com/minecraft/texture-packs/fresh-animations)
-	
+	- [Continuity (Mod)](https://www.curseforge.com/minecraft/mc-mods/continuity)
+- [Simple Grass Flowers](https://www.curseforge.com/minecraft/texture-packs/simple-grass-flowers)
+- [New Glowing Ores](https://www.curseforge.com/minecraft/texture-packs/new-glowing-ores)
+- [Mandala's Dark Mode](https://www.curseforge.com/minecraft/texture-packs/mandalas-gui-dark-mode)
+- [Crops 3D Reforged](https://www.curseforge.com/minecraft/texture-packs/crops-3d-reforged)
+- [Blue's Better Monsters](https://www.curseforge.com/minecraft/texture-packs/blues-better-monsters)
+- [Connected Glass](https://www.curseforge.com/minecraft/texture-packs/borderless-glass-no-optifine-needed)
