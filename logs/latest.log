@@ -1,5 +1,5 @@
-[22:29:52] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
-[22:29:53] [main/INFO]: Loading 54 mods:
+[21:25:42] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
+[21:25:42] [main/INFO]: Loading 54 mods:
 	- animalgarden_meerkat 1.0.1
 	- animalgarden_mouse 1.0.1
 	- animalgarden_owl 0.120.0
@@ -65,120 +65,126 @@
 	   \-- fabric-key-binding-api-v1 1.0.63+ecf51cdc07
 	- worldedit 7.3.12-beta-02+ac380ad
 	- xaerominimap 25.2.5
-[22:29:53] [main/WARN]: Found 1 non-fabric mod:
+[21:25:42] [main/WARN]: Found 1 non-fabric mod:
 	- paperapple.jar
-[22:29:53] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/Users/anmolu/GitHub/mcslerve/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[22:29:53] [main/INFO]: Compatibility level set to JAVA_21
-[22:29:53] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[22:29:55] [main/INFO]: [STDOUT]: All 4 have been set properly
-[22:29:55] [main/INFO]: [STDOUT]: animalgarden_meerkat: register everything...
-[22:29:55] [main/INFO]: [STDOUT]: All 4 have been set properly
-[22:29:55] [main/INFO]: [STDOUT]: animalgarden_mouse: register everything...
-[22:29:55] [main/INFO]: [STDOUT]: All 4 have been set properly
-[22:29:55] [main/INFO]: [STDOUT]: forest
-[22:29:55] [main/INFO]: [STDOUT]: flower_forest
-[22:29:55] [main/INFO]: [STDOUT]: birch_forest
-[22:29:55] [main/INFO]: [STDOUT]: old_growth_birch_forest
-[22:29:55] [main/INFO]: [STDOUT]: snowy_taiga
-[22:29:55] [main/INFO]: [STDOUT]: animalgarden_owl: register everything...
-[22:29:55] [main/INFO]: [STDOUT]: All 4 have been set properly
-[22:29:55] [main/INFO]: [STDOUT]: forest
-[22:29:55] [main/INFO]: [STDOUT]: flower_forest
-[22:29:55] [main/INFO]: [STDOUT]: birch_forest
-[22:29:55] [main/INFO]: [STDOUT]: old_growth_birch_forest
-[22:29:55] [main/INFO]: [STDOUT]: animalgarden_porcupine: register everything...
-[22:29:55] [main/INFO]: [voicechat] Compatibility version 18
-[22:29:55] [main/INFO]: [voicechat] Loading plugins
-[22:29:55] [main/INFO]: [voicechat] Loaded 0 plugin(s)
-[22:29:55] [main/INFO]: [voicechat] Initializing plugins
-[22:29:55] [main/INFO]: [voicechat] Initialized 0 plugin(s)
-[22:29:56] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@77f1e7a]
-[22:29:56] [main/INFO]: WorldEdit for Fabric (version 7.3.12-beta-02+ac380ad) is loaded
-[22:29:56] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[22:29:56] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:29:56] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
-[22:29:56] [main/INFO]: Loaded 1373 recipes
-[22:29:56] [main/INFO]: Loaded 1484 advancements
-[22:29:56] [main/INFO]: Applied 19 biome modifications to 10 of 65 new biomes in 2.001 ms
-[22:29:56] [Server thread/INFO]: [MobFilter] Loading config from /Users/anmolu/GitHub/mcslerve/config/mobfilter.json5
-[22:29:56] [Server thread/INFO]: [MobFilter] 1 rule(s) loaded:
-[22:29:56] [Server thread/INFO]: - FilterRule[ruleName=Valley of PEACE, checks=[CategoryCheck[categories=[MONSTER]], DimensionCheck[dimensionMatcher=[minecraft:overworld][]], BlockPosCheck[axis=x, min=-2488, max=-2392], BlockPosCheck[axis=y, min=-321, max=512], BlockPosCheck[axis=z, min=-2963, max=-2737]], action=DISALLOW_SPAWN]
-[22:29:56] [Server thread/INFO]: [MobFilter] Log level is INFO
-[22:29:56] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[22:29:56] [Server thread/INFO]: Loading properties
-[22:29:56] [Server thread/INFO]: Default game type: SURVIVAL
-[22:29:56] [Server thread/INFO]: Generating keypair
-[22:29:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:29:56] [Server thread/INFO]: Using default channel type
-[22:29:56] [Server thread/INFO]: Preparing level "world"
-[22:29:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:29:57] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[22:29:57] [Server thread/INFO]: Time elapsed: 429 ms
-[22:29:57] [Server thread/INFO]: Done (0.578s)! For help, type "help"
-[22:29:57] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[22:29:57] [Server thread/ERROR]: =============================================
-[22:29:57] [Server thread/ERROR]: MinecraftCapes only needs to be on the client
-[22:29:57] [Server thread/ERROR]:      You'll still see each others capes!
-[22:29:57] [Server thread/ERROR]:      Please remove this from your server!
-[22:29:57] [Server thread/ERROR]: =============================================
-[22:29:57] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[22:30:39] [User Authenticator #1/INFO]: UUID of player discoinferno_ is 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[22:30:40] [Server thread/INFO]: discoinferno_[/127.0.0.1:51319] logged in with entity id 36 at (-521.1464427780087, 60.0, -1155.4318742614598)
-[22:30:40] [Server thread/INFO]: discoinferno_ joined the game
-[22:30:45] [Server thread/INFO]: [voicechat] Received secret request of discoinferno_ (18)
-[22:30:45] [Server thread/INFO]: [voicechat] Sent secret to discoinferno_
-[22:30:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[22:30:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[22:30:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
-[22:32:42] [Server thread/INFO]: discoinferno_ was killed
-[22:32:42] [Server thread/INFO]: [discoinferno_: Killed discoinferno_]
-[22:37:31] [User Authenticator #2/INFO]: UUID of player ItsnotOllie1 is 9437c394-a79f-4a17-8baa-951fe0785415
-[22:37:32] [Server thread/INFO]: ItsnotOllie1[/172.26.11.41:61260] logged in with entity id 1070 at (-520.2684016449515, 60.0, -1156.6914008987112)
-[22:37:32] [Server thread/INFO]: ItsnotOllie1 joined the game
-[22:37:35] [Server thread/INFO]: [voicechat] Received secret request of ItsnotOllie1 (18)
-[22:37:35] [Server thread/INFO]: [voicechat] Sent secret to ItsnotOllie1
-[22:37:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 9437c394-a79f-4a17-8baa-951fe0785415
-[22:37:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 9437c394-a79f-4a17-8baa-951fe0785415
-[22:37:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player ItsnotOllie1 (9437c394-a79f-4a17-8baa-951fe0785415) successfully connected to voice chat
-[22:37:54] [Server thread/INFO]: ItsnotOllie1 was slain by Enderman
-[22:38:00] [Server thread/INFO]: [discoinferno_: Teleported discoinferno_ to -2424.500000, 194.000000, -2843.500000]
-[22:38:07] [Server thread/INFO]: [discoinferno_: Teleported ItsnotOllie1 to discoinferno_]
-[22:42:05] [Server thread/INFO]: [discoinferno_: Set own game mode to Survival Mode]
-[22:43:57] [Server thread/INFO]: [discoinferno_: Set own game mode to Creative Mode]
-[22:43:59] [Server thread/INFO]: [ItsnotOllie1: Set own game mode to Creative Mode]
-[22:45:18] [Server thread/INFO]: [discoinferno_: Gave 1 [Chest] to discoinferno_]
-[22:50:53] [Server thread/INFO]: <ItsnotOllie1> i founddd himmmm
-[22:50:57] [Server thread/INFO]: <discoinferno_> YAYYY
-[22:59:06] [Server thread/INFO]: [discoinferno_: Killed 4 entities]
-[23:18:07] [Server thread/INFO]: [discoinferno_: Gave 1 [Debug Stick] to discoinferno_]
-[23:30:06] [Server thread/INFO]: [discoinferno_: Gave 1 [Barrier] to discoinferno_]
-[23:34:55] [Server thread/INFO]: ItsnotOllie1 lost connection: Disconnected
-[23:34:55] [Server thread/INFO]: ItsnotOllie1 left the game
-[23:34:55] [Server thread/INFO]: [voicechat] Disconnecting client ItsnotOllie1
-[23:45:54] [Server thread/INFO]: [discoinferno_: Summoned new Cleric]
-[23:46:06] [Server thread/INFO]: [discoinferno_: Gave 900 [Emerald] to discoinferno_]
-[23:46:13] [Server thread/INFO]: [discoinferno_: Set own game mode to Survival Mode]
-[23:46:44] [Server thread/INFO]: Villager class_1646['Cleric'/12188, l='ServerLevel[world]', x=-2413.49, y=177.00, z=-2964.82] died, message: 'Cleric was killed'
-[23:46:44] [Server thread/INFO]: [discoinferno_: Killed Cleric]
-[23:46:51] [Server thread/INFO]: [discoinferno_: Set own game mode to Creative Mode]
-[23:48:32] [Server thread/ERROR]: Failed to read field (Offers={Recipes:[{maxUses:999999999}]}): No key sell in MapLike[{maxUses:999999999}]; No key buy in MapLike[{maxUses:999999999}]
-[23:48:32] [Server thread/INFO]: [discoinferno_: Summoned new Cleric]
-[23:48:43] [Server thread/INFO]: [discoinferno_: Set own game mode to Survival Mode]
-[23:48:50] [Server thread/INFO]: [discoinferno_: Gave 900 [Emerald] to discoinferno_]
-[23:49:16] [Server thread/INFO]: [discoinferno_: Set own game mode to Creative Mode]
-[23:50:34] [Server thread/INFO]: Villager class_1646['Cleric'/12407, l='ServerLevel[world]', x=-2411.24, y=177.00, z=-2971.39] died, message: 'Cleric was killed'
-[23:50:34] [Server thread/INFO]: [discoinferno_: Killed Cleric]
-[23:51:01] [Server thread/INFO]: discoinferno_ lost connection: Disconnected
-[23:51:01] [Server thread/INFO]: discoinferno_ left the game
-[23:51:01] [Server thread/INFO]: [voicechat] Disconnecting client discoinferno_
-[23:51:08] [Server thread/INFO]: Stopping the server
-[23:51:08] [Server thread/INFO]: Stopping server
-[23:51:08] [Server thread/INFO]: Saving players
-[23:51:08] [Server thread/INFO]: Saving worlds
-[23:51:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:51:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:51:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:51:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:51:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:51:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:51:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:25:42] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/Users/anmolu/GitHub/mcslerve/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[21:25:42] [main/INFO]: Compatibility level set to JAVA_21
+[21:25:42] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[21:25:45] [main/INFO]: [STDOUT]: All 4 have been set properly
+[21:25:45] [main/INFO]: [STDOUT]: animalgarden_meerkat: register everything...
+[21:25:45] [main/INFO]: [STDOUT]: All 4 have been set properly
+[21:25:45] [main/INFO]: [STDOUT]: animalgarden_mouse: register everything...
+[21:25:45] [main/INFO]: [STDOUT]: All 4 have been set properly
+[21:25:45] [main/INFO]: [STDOUT]: forest
+[21:25:45] [main/INFO]: [STDOUT]: flower_forest
+[21:25:45] [main/INFO]: [STDOUT]: birch_forest
+[21:25:45] [main/INFO]: [STDOUT]: old_growth_birch_forest
+[21:25:45] [main/INFO]: [STDOUT]: snowy_taiga
+[21:25:45] [main/INFO]: [STDOUT]: animalgarden_owl: register everything...
+[21:25:45] [main/INFO]: [STDOUT]: All 4 have been set properly
+[21:25:45] [main/INFO]: [STDOUT]: forest
+[21:25:45] [main/INFO]: [STDOUT]: flower_forest
+[21:25:45] [main/INFO]: [STDOUT]: birch_forest
+[21:25:45] [main/INFO]: [STDOUT]: old_growth_birch_forest
+[21:25:45] [main/INFO]: [STDOUT]: animalgarden_porcupine: register everything...
+[21:25:45] [main/INFO]: [voicechat] Compatibility version 18
+[21:25:45] [main/INFO]: [voicechat] Loading plugins
+[21:25:45] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[21:25:45] [main/INFO]: [voicechat] Initializing plugins
+[21:25:45] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[21:25:45] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@77f1e7a]
+[21:25:45] [main/INFO]: WorldEdit for Fabric (version 7.3.12-beta-02+ac380ad) is loaded
+[21:25:45] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[21:25:45] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:25:46] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[21:25:46] [main/INFO]: Loaded 1373 recipes
+[21:25:46] [main/INFO]: Loaded 1484 advancements
+[21:25:46] [main/INFO]: Applied 19 biome modifications to 10 of 65 new biomes in 2.363 ms
+[21:25:46] [Server thread/INFO]: [MobFilter] Loading config from /Users/anmolu/GitHub/mcslerve/config/mobfilter.json5
+[21:25:46] [Server thread/INFO]: [MobFilter] 1 rule(s) loaded:
+[21:25:46] [Server thread/INFO]: - FilterRule[ruleName=Valley of PEACE, checks=[CategoryCheck[categories=[MONSTER]], DimensionCheck[dimensionMatcher=[minecraft:overworld][]], BlockPosCheck[axis=x, min=-2488, max=-2392], BlockPosCheck[axis=y, min=-321, max=512], BlockPosCheck[axis=z, min=-2963, max=-2737]], action=DISALLOW_SPAWN]
+[21:25:46] [Server thread/INFO]: [MobFilter] Log level is INFO
+[21:25:46] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[21:25:46] [Server thread/INFO]: Loading properties
+[21:25:46] [Server thread/INFO]: Default game type: SURVIVAL
+[21:25:46] [Server thread/INFO]: Generating keypair
+[21:25:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:25:46] [Server thread/INFO]: Using default channel type
+[21:25:46] [Server thread/INFO]: Preparing level "world"
+[21:25:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:25:47] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:25:47] [Server thread/INFO]: Time elapsed: 474 ms
+[21:25:47] [Server thread/INFO]: Done (0.631s)! For help, type "help"
+[21:25:47] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[21:25:47] [Server thread/ERROR]: =============================================
+[21:25:47] [Server thread/ERROR]: MinecraftCapes only needs to be on the client
+[21:25:47] [Server thread/ERROR]:      You'll still see each others capes!
+[21:25:47] [Server thread/ERROR]:      Please remove this from your server!
+[21:25:47] [Server thread/ERROR]: =============================================
+[21:25:47] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[21:26:47] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:27:41] [User Authenticator #1/INFO]: UUID of player discoinferno_ is 4be5d073-d865-48dc-9c9a-f05c0a542a51
+[21:27:41] [Server thread/INFO]: discoinferno_[/127.0.0.1:59614] logged in with entity id 36 at (-2418.335946955396, 177.0, -2963.9554544497814)
+[21:27:42] [Server thread/INFO]: discoinferno_ joined the game
+[21:27:45] [Server thread/INFO]: [voicechat] Received secret request of discoinferno_ (18)
+[21:27:45] [Server thread/INFO]: [voicechat] Sent secret to discoinferno_
+[21:27:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
+[21:27:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
+[21:27:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
+[21:37:46] [User Authenticator #2/INFO]: UUID of player ItsnotOllie1 is 9437c394-a79f-4a17-8baa-951fe0785415
+[21:37:47] [Server thread/INFO]: ItsnotOllie1[/172.26.11.41:52980] logged in with entity id 988 at (-2431.1387494358837, 178.0, -2836.024931791334)
+[21:37:47] [Server thread/INFO]: ItsnotOllie1 joined the game
+[21:37:49] [Server thread/INFO]: [voicechat] Received secret request of ItsnotOllie1 (18)
+[21:37:49] [Server thread/INFO]: [voicechat] Sent secret to ItsnotOllie1
+[21:37:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 9437c394-a79f-4a17-8baa-951fe0785415
+[21:37:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 9437c394-a79f-4a17-8baa-951fe0785415
+[21:37:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player ItsnotOllie1 (9437c394-a79f-4a17-8baa-951fe0785415) successfully connected to voice chat
+[21:38:13] [Server thread/INFO]: <discoinferno_> hiiiiiii
+[21:38:23] [Server thread/INFO]: <ItsnotOllie1> hiiii
+[21:38:44] [Server thread/INFO]: [discoinferno_: Teleported discoinferno_ to ItsnotOllie1]
+[21:47:32] [Server thread/INFO]: [discoinferno_: Killed 19 entities]
+[21:47:36] [Server thread/INFO]: [discoinferno_: Killed 30 entities]
+[21:47:41] [Server thread/INFO]: [discoinferno_: Killed 41 entities]
+[21:50:22] [Server thread/INFO]: <discoinferno_> btw if you want the command to kill any type of monster
+[21:50:36] [Server thread/INFO]: <ItsnotOllie1> ohh ok
+[21:50:41] [Server thread/INFO]: <discoinferno_> it's "/kill @e[type=NAME_OF_MONSTER_HERE]"
+[21:50:45] [Server thread/INFO]: <ItsnotOllie1> okk
+[21:50:47] [Server thread/INFO]: <ItsnotOllie1> tyy
+[21:50:52] [Server thread/INFO]: <discoinferno_> yup np
+[21:58:31] [Server thread/INFO]: [discoinferno_: Gave 1 [Sticky Piston] to discoinferno_]
+[21:58:35] [Server thread/INFO]: [discoinferno_: Gave 1 [Piston] to discoinferno_]
+[21:58:45] [Server thread/INFO]: [discoinferno_: Gave 1 [Observer] to discoinferno_]
+[21:58:47] [Server thread/INFO]: [discoinferno_: Gave 1 [Dropper] to discoinferno_]
+[21:59:03] [Server thread/INFO]: [discoinferno_: Gave 1 [Redstone Dust] to discoinferno_]
+[21:59:07] [Server thread/INFO]: [discoinferno_: Gave 1 [Redstone Repeater] to discoinferno_]
+[22:14:43] [Server thread/INFO]: [discoinferno_: Killed 2 entities]
+[22:45:41] [Server thread/INFO]: [discoinferno_: Set the time to 13000]
+[22:46:18] [Server thread/INFO]: [discoinferno_: Set own game mode to Survival Mode]
+[22:46:34] [Server thread/INFO]: [discoinferno_: Set own game mode to Creative Mode]
+[22:47:18] [Server thread/INFO]: [discoinferno_: Set own game mode to Survival Mode]
+[22:47:35] [Server thread/INFO]: discoinferno_ was slain by Enderman
+[22:47:44] [Server thread/INFO]: [discoinferno_: Teleported discoinferno_ to ItsnotOllie1]
+[22:47:55] [Server thread/INFO]: [discoinferno_: Set own game mode to Creative Mode]
+[22:48:04] [Server thread/INFO]: [discoinferno_: Summoned new Witch]
+[22:48:46] [Server thread/INFO]: [discoinferno_: Summoned new Armadillo]
+[22:49:13] [Server thread/INFO]: [discoinferno_: Summoned new Armadillo]
+[22:50:33] [Server thread/INFO]: [discoinferno_: Summoned new Creaking]
+[22:50:40] [Server thread/INFO]: [discoinferno_: Summoned new Creaking]
+[22:50:57] [Server thread/INFO]: [discoinferno_: Summoned new Creaking]
+[22:52:06] [Server thread/INFO]: ItsnotOllie1 lost connection: Disconnected
+[22:52:06] [Server thread/INFO]: ItsnotOllie1 left the game
+[22:52:06] [Server thread/INFO]: [voicechat] Disconnecting client ItsnotOllie1
+[22:52:07] [Server thread/INFO]: discoinferno_ lost connection: Disconnected
+[22:52:07] [Server thread/INFO]: discoinferno_ left the game
+[22:52:07] [Server thread/INFO]: [voicechat] Disconnecting client discoinferno_
+[22:52:12] [Server thread/INFO]: Stopping the server
+[22:52:12] [Server thread/INFO]: Stopping server
+[22:52:12] [Server thread/INFO]: Saving players
+[22:52:12] [Server thread/INFO]: Saving worlds
+[22:52:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:52:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:52:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:52:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:52:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:52:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:52:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
