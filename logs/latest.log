@@ -1,214 +1,25 @@
-[20:59:47] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
-[20:59:47] [main/INFO]: Loading 54 mods:
-	- animalgarden_meerkat 1.0.1
-	- animalgarden_mouse 1.0.1
-	- animalgarden_owl 0.120.0
-	- animalgarden_porcupine 0.119.9
-	- appleskin 3.0.6+mc1.21.5
-	   \-- cloth-config 18.0.145
-	        \-- cloth-basic-math 0.6.1
-	- fabric-api 0.121.0+1.21.5
-	   |-- fabric-api-base 0.4.62+73a52b4b49
-	   |-- fabric-api-lookup-api-v1 1.6.95+86c3a9f149
-	   |-- fabric-biome-api-v1 16.0.7+2dd063df49
-	   |-- fabric-block-api-v1 1.0.37+86c3a9f149
-	   |-- fabric-block-view-api-v2 1.0.26+aa6d566c49
-	   |-- fabric-blockrenderlayer-v1 2.0.16+86c3a9f149
-	   |-- fabric-client-tags-api-v1 1.1.37+86c3a9f149
-	   |-- fabric-command-api-v1 1.2.70+f71b366f49
-	   |-- fabric-command-api-v2 2.2.49+73a52b4b49
-	   |-- fabric-commands-v0 0.2.87+df3654b349
-	   |-- fabric-content-registries-v0 10.0.12+3e6c1f7d49
-	   |-- fabric-convention-tags-v1 2.1.29+7f945d5b49
-	   |-- fabric-convention-tags-v2 2.14.3+fca633a049
-	   |-- fabric-crash-report-info-v1 0.3.12+86c3a9f149
-	   |-- fabric-data-attachment-api-v1 1.7.0+9c0dd47249
-	   |-- fabric-data-generation-api-v1 22.3.4+fd2b524049
-	   |-- fabric-dimensions-v1 4.0.17+3e6c1f7d49
-	   |-- fabric-entity-events-v1 2.0.25+27c1078f49
-	   |-- fabric-events-interaction-v0 4.0.13+73a52b4b49
-	   |-- fabric-game-rule-api-v1 1.0.70+c327076a49
-	   |-- fabric-item-api-v1 11.3.2+2ccdb6ef49
-	   |-- fabric-item-group-api-v1 4.2.8+3459fc6149
-	   |-- fabric-key-binding-api-v1 1.0.63+ecf51cdc49
-	   |-- fabric-keybindings-v0 0.2.61+df3654b349
-	   |-- fabric-lifecycle-events-v1 2.5.13+5cbce67349
-	   |-- fabric-loot-api-v2 3.0.47+3f89f5a549
-	   |-- fabric-loot-api-v3 1.0.35+86c3a9f149
-	   |-- fabric-message-api-v1 6.0.33+86c3a9f149
-	   |-- fabric-model-loading-api-v1 5.2.0+c982b95149
-	   |-- fabric-networking-api-v1 4.4.0+f3ffa98949
-	   |-- fabric-object-builder-api-v1 21.0.0+7b20cbb049
-	   |-- fabric-particles-v1 4.1.1+112e550e49
-	   |-- fabric-recipe-api-v1 8.1.6+052a85d049
-	   |-- fabric-registry-sync-v0 6.1.20+b556383249
-	   |-- fabric-renderer-api-v1 6.0.2+c982b95149
-	   |-- fabric-renderer-indigo 3.0.3+3e6c1f7d49
-	   |-- fabric-rendering-data-attachment-v1 0.3.64+73761d2e49
-	   |-- fabric-rendering-fluids-v1 3.1.27+86c3a9f149
-	   |-- fabric-rendering-v1 11.1.11+081cc04349
-	   |-- fabric-resource-conditions-api-v1 5.0.21+73a52b4b49
-	   |-- fabric-resource-loader-v0 3.1.6+02ca679649
-	   |-- fabric-screen-api-v1 2.0.46+86c3a9f149
-	   |-- fabric-screen-handler-api-v1 1.3.127+c327076a49
-	   |-- fabric-sound-api-v1 1.0.38+86c3a9f149
-	   |-- fabric-tag-api-v1 1.0.16+ecf51cdc49
-	   |-- fabric-transfer-api-v1 5.4.23+7b20cbb049
-	   \-- fabric-transitive-access-wideners-v1 6.3.17+f17a180c49
-	- fabricloader 0.16.14
-	   \-- mixinextras 0.4.1
-	- java 24
-	- minecraft 1.21.5
-	- minecraftcapes 12.4.0
-	- mobfilter 0.15.0+1.21.5
-	- voicechat 1.21.5-2.5.30
-	   \-- fabric-key-binding-api-v1 1.0.63+ecf51cdc07
-	- worldedit 7.3.12-beta-02+ac380ad
-	- xaerominimap 25.2.5
-[20:59:47] [main/WARN]: Found 1 non-fabric mod:
-	- paperapple.jar
-[20:59:47] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/Users/anmolu/GitHub/mcslerve/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[20:59:47] [main/INFO]: Compatibility level set to JAVA_21
-[20:59:47] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[20:59:50] [main/INFO]: [STDOUT]: All 4 have been set properly
-[20:59:50] [main/INFO]: [STDOUT]: animalgarden_meerkat: register everything...
-[20:59:50] [main/INFO]: [STDOUT]: All 4 have been set properly
-[20:59:50] [main/INFO]: [STDOUT]: animalgarden_mouse: register everything...
-[20:59:50] [main/INFO]: [STDOUT]: All 4 have been set properly
-[20:59:50] [main/INFO]: [STDOUT]: forest
-[20:59:50] [main/INFO]: [STDOUT]: flower_forest
-[20:59:50] [main/INFO]: [STDOUT]: birch_forest
-[20:59:50] [main/INFO]: [STDOUT]: old_growth_birch_forest
-[20:59:50] [main/INFO]: [STDOUT]: snowy_taiga
-[20:59:50] [main/INFO]: [STDOUT]: animalgarden_owl: register everything...
-[20:59:50] [main/INFO]: [STDOUT]: All 4 have been set properly
-[20:59:50] [main/INFO]: [STDOUT]: forest
-[20:59:50] [main/INFO]: [STDOUT]: flower_forest
-[20:59:50] [main/INFO]: [STDOUT]: birch_forest
-[20:59:50] [main/INFO]: [STDOUT]: old_growth_birch_forest
-[20:59:50] [main/INFO]: [STDOUT]: animalgarden_porcupine: register everything...
-[20:59:50] [main/INFO]: [voicechat] Compatibility version 18
-[20:59:50] [main/INFO]: [voicechat] Loading plugins
-[20:59:50] [main/INFO]: [voicechat] Loaded 0 plugin(s)
-[20:59:50] [main/INFO]: [voicechat] Initializing plugins
-[20:59:50] [main/INFO]: [voicechat] Initialized 0 plugin(s)
-[20:59:50] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@9f58b6a]
-[20:59:50] [main/INFO]: WorldEdit for Fabric (version 7.3.12-beta-02+ac380ad) is loaded
-[20:59:50] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[20:59:50] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:59:51] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
-[20:59:51] [main/INFO]: Loaded 1373 recipes
-[20:59:51] [main/INFO]: Loaded 1484 advancements
-[20:59:51] [main/INFO]: Applied 19 biome modifications to 10 of 65 new biomes in 1.983 ms
-[20:59:51] [Server thread/INFO]: [MobFilter] Loading config from /Users/anmolu/GitHub/mcslerve/config/mobfilter.json5
-[20:59:51] [Server thread/INFO]: [MobFilter] 1 rule(s) loaded:
-[20:59:51] [Server thread/INFO]: - FilterRule[ruleName=Valley of PEACE, checks=[CategoryCheck[categories=[MONSTER]], DimensionCheck[dimensionMatcher=[minecraft:overworld][]], BlockPosCheck[axis=x, min=-2488, max=-2392], BlockPosCheck[axis=y, min=-321, max=512], BlockPosCheck[axis=z, min=-2963, max=-2737]], action=DISALLOW_SPAWN]
-[20:59:51] [Server thread/INFO]: [MobFilter] Log level is INFO
-[20:59:51] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[20:59:51] [Server thread/INFO]: Loading properties
-[20:59:51] [Server thread/INFO]: Default game type: SURVIVAL
-[20:59:51] [Server thread/INFO]: Generating keypair
-[20:59:51] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:59:51] [Server thread/INFO]: Using default channel type
-[20:59:51] [Server thread/INFO]: Preparing level "world"
-[20:59:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:59:51] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[20:59:52] [Server thread/INFO]: Time elapsed: 391 ms
-[20:59:52] [Server thread/INFO]: Done (0.509s)! For help, type "help"
-[20:59:52] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[20:59:52] [Server thread/ERROR]: =============================================
-[20:59:52] [Server thread/ERROR]: MinecraftCapes only needs to be on the client
-[20:59:52] [Server thread/ERROR]:      You'll still see each others capes!
-[20:59:52] [Server thread/ERROR]:      Please remove this from your server!
-[20:59:52] [Server thread/ERROR]: =============================================
-[20:59:52] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[21:00:52] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[21:01:12] [User Authenticator #1/INFO]: UUID of player discoinferno_ is 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[21:01:13] [Server thread/INFO]: discoinferno_[/127.0.0.1:57721] logged in with entity id 36 at (-2422.009137132664, 177.0, -2970.44084124084)
-[21:01:13] [Server thread/INFO]: discoinferno_ joined the game
-[21:01:16] [Server thread/INFO]: [voicechat] Received secret request of discoinferno_ (18)
-[21:01:16] [Server thread/INFO]: [voicechat] Sent secret to discoinferno_
-[21:01:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[21:01:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4be5d073-d865-48dc-9c9a-f05c0a542a51
-[21:01:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player discoinferno_ (4be5d073-d865-48dc-9c9a-f05c0a542a51) successfully connected to voice chat
-[21:01:53] [User Authenticator #2/INFO]: UUID of player ItsnotOllie1 is 9437c394-a79f-4a17-8baa-951fe0785415
-[21:01:54] [Server thread/INFO]: ItsnotOllie1[/172.26.11.41:60053] logged in with entity id 309 at (-2425.4008510564445, 179.0, -2970.1839161460307)
-[21:01:54] [Server thread/INFO]: ItsnotOllie1 joined the game
-[21:01:56] [Server thread/INFO]: [voicechat] Received secret request of ItsnotOllie1 (18)
-[21:01:56] [Server thread/INFO]: [voicechat] Sent secret to ItsnotOllie1
-[21:01:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 9437c394-a79f-4a17-8baa-951fe0785415
-[21:01:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 9437c394-a79f-4a17-8baa-951fe0785415
-[21:01:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player ItsnotOllie1 (9437c394-a79f-4a17-8baa-951fe0785415) successfully connected to voice chat
-[21:06:32] [Server thread/INFO]: <discoinferno_> do u want more traditional house style or modern or smth else?
-[21:06:44] [Server thread/INFO]: <ItsnotOllie1> hmmm
-[21:06:50] [Server thread/INFO]: <ItsnotOllie1> def not modern
-[21:07:05] [Server thread/INFO]: <ItsnotOllie1> maybe like traditional cottage vibe
-[21:07:10] [Server thread/INFO]: <discoinferno_> hmm okok
-[21:11:38] [Server thread/INFO]: <discoinferno_> diyaaaa
-[21:11:44] [Server thread/INFO]: <ItsnotOllie1> hiii
-[21:11:45] [Server thread/INFO]: <discoinferno_> come out for a sec, top of the tower
-[21:13:38] [Server thread/INFO]: [discoinferno_: Gave 1 [Lava Bucket] to discoinferno_]
-[21:14:00] [Server thread/INFO]: [discoinferno_: Gave 1 [Obsidian] to discoinferno_]
-[21:25:38] [Server thread/INFO]: [discoinferno_: Gave 1 [Chest] to discoinferno_]
-[21:27:03] [Server thread/INFO]: [discoinferno_: Gave 1 [Chiseled Stone Bricks] to discoinferno_]
-[21:44:08] [Server thread/INFO]: <ItsnotOllie1> dada i meesed uppppp
-[21:44:29] [Server thread/INFO]: <ItsnotOllie1> but like i think you have a way to fix it
-[21:44:35] [Server thread/INFO]: <discoinferno_> whats up
-[21:44:41] [Server thread/INFO]: [discoinferno_: Teleported discoinferno_ to ItsnotOllie1]
-[21:47:32] [Server thread/INFO]: [discoinferno_: Set own game mode to Spectator Mode]
-[21:47:37] [Server thread/INFO]: [discoinferno_: Set own game mode to Creative Mode]
-[21:53:26] [Server thread/INFO]: [discoinferno_: Gave 1 [Campfire] to discoinferno_]
-[21:53:29] [Server thread/INFO]: [discoinferno_: Gave 1 [Wooden Shovel] to discoinferno_]
-[22:06:05] [Server thread/INFO]: <ItsnotOllie1> Dada i finished
-[22:06:12] [Server thread/INFO]: [discoinferno_: Teleported discoinferno_ to ItsnotOllie1]
-[22:11:50] [Server thread/INFO]: <discoinferno_> brb gonna start a print
-[22:11:53] [Server thread/INFO]: <ItsnotOllie1> oki
-[22:21:28] [Server thread/INFO]: <discoinferno_> am back!
-[22:21:32] [Server thread/INFO]: <ItsnotOllie1> okii
-[22:21:35] [Server thread/INFO]: <discoinferno_> como estas
-[22:21:48] [Server thread/INFO]: <ItsnotOllie1> bein
-[22:21:55] [Server thread/INFO]: <ItsnotOllie1> e tu
-[22:22:29] [Server thread/INFO]: <discoinferno_> bien
-[22:22:38] [Server thread/INFO]: <ItsnotOllie1> niceeeee
-[22:26:59] [Server thread/INFO]: [discoinferno_: Set the time to 13000]
-[22:32:13] [Server thread/INFO]: <discoinferno_> ok brb again
-[22:32:20] [Server thread/INFO]: <discoinferno_> i finished the outline for the first floor
-[22:32:28] [Server thread/INFO]: <ItsnotOllie1> oooo oki
-[22:33:09] [Server thread/INFO]: <discoinferno_> i can still hear u so call out here if u need anything lol
-[22:33:37] [Server thread/INFO]: <ItsnotOllie1> oki
-[22:42:46] [Server thread/INFO]: <discoinferno_> okk back
-[22:43:01] [Server thread/INFO]: <ItsnotOllie1> hiiii
-[22:43:11] [Server thread/INFO]: <discoinferno_> helloooooooo
-[22:45:02] [Server thread/INFO]: <ItsnotOllie1> i give up on the banners but other than that i finished it
-[22:45:25] [Server thread/INFO]: <discoinferno_> niiice
-[22:51:40] [Server thread/INFO]: [discoinferno_: Gave 1 [Barrel] to discoinferno_]
-[23:02:05] [Server thread/INFO]: <ItsnotOllie1> dada i think ima go sleep now
-[23:02:11] [Server thread/INFO]: <discoinferno_> okkk take a look at the shape
-[23:02:51] [Server thread/INFO]: [discoinferno_: Set the time to 12000]
-[23:03:28] [Server thread/INFO]: ItsnotOllie1 lost connection: Disconnected
-[23:03:28] [Server thread/INFO]: ItsnotOllie1 left the game
-[23:03:28] [Server thread/INFO]: [voicechat] Disconnecting client ItsnotOllie1
-[23:03:42] [Server thread/INFO]: [discoinferno_: Set the time to 1000]
-[23:03:46] [Server thread/INFO]: [discoinferno_: Gamerule doDaylightCycle is now set to: false]
-[23:04:52] [Server thread/INFO]: [discoinferno_: Set the time to 12500]
-[23:04:58] [Server thread/INFO]: [discoinferno_: Set the time to 12000]
-[23:05:29] [Server thread/INFO]: [discoinferno_: Gave 1 [White Terracotta] to discoinferno_]
-[23:05:37] [Server thread/INFO]: [discoinferno_: Gave 1 [Glass Pane] to discoinferno_]
-[23:12:48] [Server thread/INFO]: discoinferno_ lost connection: Disconnected
-[23:12:48] [Server thread/INFO]: discoinferno_ left the game
-[23:12:48] [Server thread/INFO]: [voicechat] Disconnecting client discoinferno_
-[23:13:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:13:00] [Server thread/INFO]: exit<--[HERE]
-[23:13:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:13:04] [Server thread/INFO]: exit<--[HERE]
-[23:13:05] [Server thread/INFO]: Stopping the server
-[23:13:05] [Server thread/INFO]: Stopping server
-[23:13:05] [Server thread/INFO]: Saving players
-[23:13:05] [Server thread/INFO]: Saving worlds
-[23:13:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:13:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:13:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:13:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:13:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:13:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:13:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:14:50] [Server thread/INFO]: [discoinferno_: Gave 1 [Cobblestone] to discoinferno_]
+[00:14:54] [Server thread/INFO]: [discoinferno_: Gave 1 [Stone Bricks] to discoinferno_]
+[00:24:09] [Server thread/INFO]: [discoinferno_: Set own game mode to Survival Mode]
+[00:24:14] [Server thread/INFO]: [discoinferno_: Set own game mode to Creative Mode]
+[00:25:08] [Server thread/INFO]: [discoinferno_: Gave 1 [Glow Item Frame] to discoinferno_]
+[00:25:37] [Server thread/INFO]: [discoinferno_: Set own game mode to Survival Mode]
+[00:25:41] [Server thread/INFO]: [discoinferno_: Set own game mode to Creative Mode]
+[00:26:22] [Server thread/INFO]: [discoinferno_: Set own game mode to Survival Mode]
+[00:26:28] [Server thread/INFO]: [discoinferno_: Set own game mode to Creative Mode]
+[00:26:37] [Server thread/INFO]: [discoinferno_: Set own game mode to Survival Mode]
+[00:26:42] [Server thread/INFO]: [discoinferno_: Set own game mode to Creative Mode]
+[00:46:09] [Server thread/INFO]: discoinferno_ lost connection: Disconnected
+[00:46:09] [Server thread/INFO]: discoinferno_ left the game
+[00:46:09] [Server thread/INFO]: [voicechat] Disconnecting client discoinferno_
+[00:46:20] [Server thread/INFO]: Stopping the server
+[00:46:20] [Server thread/INFO]: Stopping server
+[00:46:20] [Server thread/INFO]: Saving players
+[00:46:20] [Server thread/INFO]: Saving worlds
+[00:46:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:46:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:46:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:46:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:46:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:46:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:46:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
