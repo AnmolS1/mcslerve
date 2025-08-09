@@ -1,21 +1,107 @@
-[21:30:24] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.17.2
-[21:30:24] [main/INFO]: Fabric is preparing JARs on first launch, this may take a few seconds...
-[21:30:24] [main/WARN]: Mod resolution failed
-[21:30:24] [main/INFO]: Immediate reason: [HARD_DEP animalgarden_meerkat 1.0.1 {depends fabric-api @ [*]}, HARD_DEP_INCOMPATIBLE_PRESELECTED fabric-api 0.121.0+1.21.5 {depends minecraft @ [>=1.21.5- <1.21.6-]}, ROOT_FORCELOAD_SINGLE animalgarden_meerkat 1.0.1]
-[21:30:24] [main/INFO]: Reason: [HARD_DEP fabric-api 0.121.0+1.21.5 {depends minecraft @ [>=1.21.5- <1.21.6-]}, HARD_DEP voicechat 1.21.5-2.5.30 {depends minecraft @ [1.21.5]}]
-[21:30:24] [main/INFO]: SERVER environment disabled: [fabric-renderer-api-v1, fabric-model-loading-api-v1, fabric-keybindings-v0, sodium, iris, fabric-client-tags-api-v1, fabric-screen-api-v1, fabric-sound-api-v1, fabric-rendering-v1, fabric-key-binding-api-v1, fabric-renderer-indigo, fabric-blockrenderlayer-v1]
-[21:30:24] [main/INFO]: Fix: add [], remove [], replace [[minecraft 1.21.8] -> add:minecraft 1.21.5 ([[1.21.5,1.21.5]])]
-[21:30:24] [main/ERROR]: Incompatible mods found!
-net.fabricmc.loader.impl.FormattedException: Some of your mods are incompatible with the game or each other!
-A potential solution has been determined, this may resolve your problem:
-	 - Replace 'Minecraft' (minecraft) 1.21.8 with version 1.21.5.
-More details:
-	 - Mod 'Fabric API' (fabric-api) 0.121.0+1.21.5 requires any version between 1.21.5- (inclusive) and 1.21.6- (exclusive) of 'Minecraft' (minecraft), but only the wrong version is present: 1.21.8!
-	 - Mod 'Simple Voice Chat' (voicechat) 1.21.5-2.5.30 requires version 1.21.5 of 'Minecraft' (minecraft), but only the wrong version is present: 1.21.8!
-	at net.fabricmc.loader.impl.FormattedException.ofLocalized(FormattedException.java:51) ~[fabric-loader-0.17.2.jar:?]
-	at net.fabricmc.loader.impl.FabricLoaderImpl.load(FabricLoaderImpl.java:202) ~[fabric-loader-0.17.2.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.Knot.init(Knot.java:142) ~[fabric-loader-0.17.2.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:66) [fabric-loader-0.17.2.jar:?]
+[21:32:19] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.17.2
+[21:32:19] [main/INFO]: Loading 51 mods:
+	- animalgarden_meerkat 1.0.1
+	- animalgarden_mouse 1.0.1
+	- animalgarden_owl 0.120.0
+	- animalgarden_porcupine 0.119.9
+	- appleskin 3.0.6+mc1.21.5
+	   \-- cloth-config 18.0.145
+	        \-- cloth-basic-math 0.6.1
+	- fabric-api 0.131.0+1.21.8
+	   |-- fabric-api-base 0.5.0+cd8c0daa2c
+	   |-- fabric-api-lookup-api-v1 1.6.101+946bf4c32c
+	   |-- fabric-biome-api-v1 16.0.11+946bf4c32c
+	   |-- fabric-block-api-v1 1.1.3+946bf4c32c
+	   |-- fabric-block-view-api-v2 1.0.31+946bf4c32c
+	   |-- fabric-command-api-v2 2.3.1+52fff9ec2c
+	   |-- fabric-content-registries-v0 10.0.19+946bf4c32c
+	   |-- fabric-convention-tags-v1 2.1.41+7f945d5b2c
+	   |-- fabric-convention-tags-v2 2.15.6+eb5df52f2c
+	   |-- fabric-crash-report-info-v1 0.3.15+946bf4c32c
+	   |-- fabric-data-attachment-api-v1 1.8.11+946bf4c32c
+	   |-- fabric-data-generation-api-v1 23.2.6+0b1ef9762c
+	   |-- fabric-dimensions-v1 4.0.19+946bf4c32c
+	   |-- fabric-entity-events-v1 2.1.2+c9e472732c
+	   |-- fabric-events-interaction-v0 4.0.24+946bf4c32c
+	   |-- fabric-game-rule-api-v1 1.0.73+c64c9c5b2c
+	   |-- fabric-item-api-v1 11.5.0+02ce13f42c
+	   |-- fabric-item-group-api-v1 4.2.14+c5f9bbc12c
+	   |-- fabric-key-binding-api-v1 1.0.65+946bf4c32c
+	   |-- fabric-lifecycle-events-v1 2.6.4+db4dfd852c
+	   |-- fabric-loot-api-v2 3.0.56+3f89f5a52c
+	   |-- fabric-loot-api-v3 2.0.3+946bf4c32c
+	   |-- fabric-message-api-v1 6.1.2+946bf4c32c
+	   |-- fabric-model-loading-api-v1 5.2.6+946bf4c32c
+	   |-- fabric-networking-api-v1 5.0.2+946bf4c32c
+	   |-- fabric-object-builder-api-v1 21.1.8+946bf4c32c
+	   |-- fabric-particles-v1 4.1.8+946bf4c32c
+	   |-- fabric-recipe-api-v1 8.1.15+946bf4c32c
+	   |-- fabric-registry-sync-v0 6.1.28+946bf4c32c
+	   |-- fabric-renderer-api-v1 7.0.3+208eed172c
+	   |-- fabric-renderer-indigo 4.0.3+946bf4c32c
+	   |-- fabric-rendering-fluids-v1 3.1.31+fa6cb72b2c
+	   |-- fabric-rendering-v1 12.5.0+fbe231d52c
+	   |-- fabric-resource-conditions-api-v1 5.0.25+98e6d6db2c
+	   |-- fabric-resource-loader-v0 3.1.12+020423442c
+	   |-- fabric-screen-api-v1 2.1.1+277ecf7d2c
+	   |-- fabric-screen-handler-api-v1 1.3.137+946bf4c32c
+	   |-- fabric-sound-api-v1 1.0.42+946bf4c32c
+	   |-- fabric-tag-api-v1 1.2.2+946bf4c32c
+	   |-- fabric-transfer-api-v1 6.0.6+946bf4c32c
+	   \-- fabric-transitive-access-wideners-v1 6.4.1+ac3e15d12c
+	- fabricloader 0.17.2
+	   \-- mixinextras 0.5.0
+	- java 24
+	- minecraft 1.21.8
+	- minecraftcapes 12.4.0
+	- mobfilter 0.15.0+1.21.5
+	- voicechat 1.21.8-2.5.36
+	   |-- fabric-key-binding-api-v1 1.0.65+946bf4c3f3
+	   \-- fabric-rendering-v1 12.4.0+e8d43c76f3
+	- worldedit 7.3.12-beta-02+ac380ad
+	- xaerominimap 25.2.5
+[21:32:19] [main/WARN]: Found 1 non-fabric mod:
+	- paperapple.jar
+[21:32:19] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/Users/anmolu/GitHub/mcslerve/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[21:32:19] [main/INFO]: Compatibility level set to JAVA_21
+[21:32:19] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[21:32:22] [main/INFO]: [STDOUT]: All 4 have been set properly
+[21:32:22] [main/INFO]: [STDOUT]: animalgarden_meerkat: register everything...
+[21:32:22] [main/INFO]: [STDOUT]: All 4 have been set properly
+[21:32:22] [main/INFO]: [STDOUT]: animalgarden_mouse: register everything...
+[21:32:22] [main/INFO]: [STDOUT]: All 4 have been set properly
+[21:32:22] [main/INFO]: [STDOUT]: forest
+[21:32:22] [main/INFO]: [STDOUT]: flower_forest
+[21:32:22] [main/INFO]: [STDOUT]: birch_forest
+[21:32:22] [main/INFO]: [STDOUT]: old_growth_birch_forest
+[21:32:22] [main/INFO]: [STDOUT]: snowy_taiga
+[21:32:22] [main/INFO]: [STDOUT]: animalgarden_owl: register everything...
+[21:32:22] [main/INFO]: [STDOUT]: All 4 have been set properly
+[21:32:22] [main/INFO]: [STDOUT]: forest
+[21:32:22] [main/INFO]: [STDOUT]: flower_forest
+[21:32:22] [main/INFO]: [STDOUT]: birch_forest
+[21:32:22] [main/INFO]: [STDOUT]: old_growth_birch_forest
+[21:32:22] [main/INFO]: [STDOUT]: animalgarden_porcupine: register everything...
+[21:32:22] [main/INFO]: [voicechat] Compatibility version 18
+[21:32:22] [main/INFO]: [voicechat] Loading plugins
+[21:32:22] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[21:32:22] [main/INFO]: [voicechat] Initializing plugins
+[21:32:22] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[21:32:22] [main/ERROR]: Failed to start the minecraft server
+java.lang.RuntimeException: Could not execute entrypoint stage 'main' due to errors, provided by 'worldedit' at 'com.sk89q.worldedit.fabric.FabricWorldEdit'!
+	at net.fabricmc.loader.impl.FabricLoaderImpl.lambda$invokeEntrypoints$2(FabricLoaderImpl.java:409) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.util.ExceptionUtil.gatherExceptions(ExceptionUtil.java:33) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.FabricLoaderImpl.invokeEntrypoints(FabricLoaderImpl.java:407) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.Hooks.startServer(Hooks.java:63) ~[fabric-loader-0.17.2.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:114) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:506) [fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) [fabric-loader-0.17.2.jar:?]
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.17.2.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.17.2.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.1.0]
+Caused by: java.lang.NoSuchMethodError: 'net.minecraft.class_6595 net.minecraft.class_6489.method_37912()'
+	at knot/com.sk89q.worldedit.fabric.FabricPlatform.getDataVersion(FabricPlatform.java:87) ~[worldedit.jar:?]
+	at knot/com.sk89q.worldedit.fabric.FabricPlatform.<init>(FabricPlatform.java:67) ~[worldedit.jar:?]
+	at knot/com.sk89q.worldedit.fabric.FabricWorldEdit.onInitialize(FabricWorldEdit.java:164) ~[worldedit.jar:?]
+	at net.fabricmc.loader.impl.FabricLoaderImpl.invokeEntrypoints(FabricLoaderImpl.java:405) ~[fabric-loader-0.17.2.jar:?]
+	... 7 more
