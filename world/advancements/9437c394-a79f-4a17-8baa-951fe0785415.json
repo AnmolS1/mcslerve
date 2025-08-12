@@ -821,12 +821,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_pink_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-05-21 21:33:21 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_pink_dye": "2025-05-21 21:33:21 -0500"
@@ -836,12 +830,6 @@
   "minecraft:recipes/tools/pink_bundle": {
     "criteria": {
       "has_pink_dye": "2025-05-21 21:33:21 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_pink_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-05-21 21:33:21 -0500"
     },
     "done": true
   },
@@ -2539,18 +2527,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_green_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-07-04 21:51:48 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_green_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-07-04 21:51:48 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_green_dye": "2025-07-04 21:51:48 -0500"
@@ -2587,12 +2563,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_white_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-07-04 21:51:55 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_white_wool": {
     "criteria": {
       "has_needed_dye": "2025-07-04 21:51:55 -0500"
@@ -2620,12 +2590,6 @@
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2025-07-04 21:51:55 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-07-04 21:51:55 -0500"
     },
     "done": true
   },
@@ -2665,27 +2629,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_lime_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-07-04 21:53:00 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_lime_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-07-04 21:53:00 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/black_bundle": {
     "criteria": {
       "has_black_dye": "2025-07-04 21:53:50 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_black_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-07-04 21:53:50 -0500"
     },
     "done": true
   },
@@ -2698,12 +2644,6 @@
   "minecraft:recipes/decorations/black_candle": {
     "criteria": {
       "has_black_dye": "2025-07-04 21:53:50 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_black_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-07-04 21:53:50 -0500"
     },
     "done": true
   },
@@ -2815,18 +2755,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_light_blue_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-07-04 22:07:27 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_blue_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-07-04 22:07:27 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_light_blue_dye": "2025-07-04 22:07:27 -0500"
@@ -2846,12 +2774,6 @@
     "done": true
   },
   "minecraft:recipes/building_blocks/dye_blue_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-07-04 22:07:47 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2025-07-04 22:07:47 -0500"
     },
@@ -2878,12 +2800,6 @@
   "minecraft:recipes/tools/blue_bundle": {
     "criteria": {
       "has_blue_dye": "2025-07-04 22:07:47 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_blue_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-07-04 22:07:47 -0500"
     },
     "done": true
   },
@@ -2977,19 +2893,7 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_magenta_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-08-02 22:32:06 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_magenta_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-08-02 22:32:06 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
     "criteria": {
       "has_needed_dye": "2025-08-02 22:32:06 -0500"
     },
@@ -3019,21 +2923,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_cyan_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-08-02 22:32:19 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_cyan_dye": "2025-08-02 22:32:19 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_cyan_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-08-02 22:32:19 -0500"
     },
     "done": true
   },
@@ -3055,12 +2947,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_purple_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-08-02 22:40:38 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/purple_candle": {
     "criteria": {
       "has_purple_dye": "2025-08-02 22:40:38 -0500"
@@ -3070,12 +2956,6 @@
   "minecraft:recipes/tools/purple_bundle": {
     "criteria": {
       "has_purple_dye": "2025-08-02 22:40:38 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_purple_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-08-02 22:40:38 -0500"
     },
     "done": true
   },
@@ -3415,15 +3295,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-08-10 21:56:34 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-08-10 21:46:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-08-10 21:56:34 -0500"
     },
     "done": true
   },
@@ -3439,5 +3319,5 @@
     },
     "done": true
   },
-  "DataVersion": 4325
+  "DataVersion": 4440
 }
